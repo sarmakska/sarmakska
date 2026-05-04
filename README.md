@@ -120,6 +120,14 @@ The result: **twelve MIT-licensed repositories**, **fifty-plus long-form enginee
 <img src="https://github-profile-trophy.vercel.app/?username=sarmakska&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
 </a>
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarmakska/sarmakska/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarmakska/sarmakska/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sarmakska/sarmakska/output/github-snake.svg" />
+</picture>
+
 </div>
 
 ---
