@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://sarmalinux.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=Senior+software+engineer+%C2%B7+UK;Twelve+open-source+repositories;Multi-provider+AI+gateway+with+14-engine+failover;Durable+multi-agent+orchestration+%E2%80%94+deterministic+replay;Sub-second+real-time+voice+agents+on+WebRTC;Open+to+permanent+UK+roles+%E2%80%94+reply%40sarmalinux.com" alt="What I do"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=Senior+software+engineer+%C2%B7+UK;Twelve+open-source+repositories;Multi-provider+AI+gateway+with+14-engine+failover;Durable+multi-agent+orchestration+%E2%80%94+deterministic+replay;Sub-second+real-time+voice+agents+on+WebRTC;Open+to+permanent+UK+roles+%E2%80%94+sarma%40sarmalinux.com" alt="What I do"/>
 </a>
 
 <br/><br/>
@@ -14,7 +14,7 @@
 [![Hire me](https://img.shields.io/badge/Hire%20me-permanent%20UK%20roles-22c55e?style=for-the-badge&logo=briefcase&logoColor=white)](https://sarmalinux.com/hire-me)
 [![Blog](https://img.shields.io/badge/Engineering%20blog-57+%20essays-8b5cf6?style=for-the-badge&logo=substack&logoColor=white)](https://sarmalinux.com/blog)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarmalinux)
-[![Email](https://img.shields.io/badge/reply%40sarmalinux.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarma@sarmalinux.com)
+[![Email](https://img.shields.io/badge/sarma%40sarmalinux.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarma@sarmalinux.com)
 
 </div>
 
@@ -155,7 +155,7 @@ If you have a role I might be a fit for:
 <img src="https://img.shields.io/badge/Read%20the%20full%20pitch%20%E2%86%92-sarmalinux.com%2Fhire--me-22c55e?style=for-the-badge&logo=briefcase&logoColor=white"/>
 </a>
 <a href="mailto:sarma@sarmalinux.com?subject=Role%20enquiry%20%E2%80%94%20Sarma">
-<img src="https://img.shields.io/badge/Email%20%E2%86%92-reply%40sarmalinux.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email%20%E2%86%92-sarma%40sarmalinux.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
