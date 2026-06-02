@@ -20,6 +20,37 @@
 
 ---
 
+<div align="center">
+
+<a href="https://github.com/sarmakska/echo">
+<img src="https://raw.githubusercontent.com/sarmakska/echo/main/.github/banner.svg" width="100%" alt="echo, an open Jarvis, coming 1 July 2026"/>
+</a>
+
+<br/>
+
+### **echo** &middot; *an open Jarvis for grown-ups*
+
+A personal AI assistant that runs on the subscription you already pay for.
+Voice. Vision. Memory. A translucent multi-monitor HUD.
+
+**No API keys. No second bill. Local-first. Open source.**
+
+<br/>
+
+<a href="https://github.com/sarmakska/echo">
+<img src="https://img.shields.io/badge/coming-1%20July%202026-22c55e?style=for-the-badge&logo=clockify&logoColor=white" alt="coming 1 July 2026"/>
+</a>
+<a href="https://github.com/sarmakska/echo">
+<img src="https://img.shields.io/badge/in%20build-since%20Nov%202024-0a84ff?style=for-the-badge&logo=git&logoColor=white" alt="in build since Nov 2024"/>
+</a>
+<a href="https://sarmalinux.com/products/echo">
+<img src="https://img.shields.io/badge/Read%20the%20long%20plan%20→-sarmalinux.com%2Fproducts%2Fecho-a78bfa?style=for-the-badge&logo=safari&logoColor=white" alt="Read the long plan"/>
+</a>
+
+</div>
+
+---
+
 ### About
 
 Senior software engineer in Hemel Hempstead, UK. Around five years of production experience. I design and ship **LLM infrastructure**, **systems software** and **full-stack platforms**, end to end. Most of my work is open source on GitHub. Every project ships with a whitepaper, an architecture diagram and a quick-start guide on **[sarmalinux.com/products](https://sarmalinux.com/products)**.
