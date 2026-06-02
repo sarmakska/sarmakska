@@ -23,12 +23,12 @@
 <div align="center">
 
 <a href="https://github.com/sarmakska/echo">
-<img src="https://raw.githubusercontent.com/sarmakska/echo/main/.github/banner.svg" width="100%" alt="echo, an open Jarvis, coming 1 July 2026"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20&height=160&section=header&text=echo&fontSize=72&fontColor=ffffff&fontAlignY=52&desc=an%20open%20Jarvis%2C%20on%20every%20screen&descSize=16&descAlignY=82&animation=fadeIn" width="100%" alt="echo, an open Jarvis, coming 1 July 2026"/>
 </a>
 
 <br/>
 
-### **echo** &middot; *an open Jarvis for grown-ups*
+### **echo** &middot; *an open Jarvis on every screen*
 
 A personal AI assistant that runs on the subscription you already pay for.
 Voice. Vision. Memory. A translucent multi-monitor HUD.
