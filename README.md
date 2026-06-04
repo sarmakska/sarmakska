@@ -51,6 +51,38 @@ Voice. Vision. Memory. A translucent multi-monitor HUD.
 
 ---
 
+<div align="center">
+
+<a href="https://github.com/sarmakska/slipstream">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=44&duration=2500&pause=600&color=34D399&center=true&vCenter=true&width=820&height=80&lines=slipstream+v0.6.1+shipped;14+sp_*+tools+%C2%B7+six+editors;cross-IDE+MCP+toolkit" alt="slipstream v0.6.1"/>
+</a>
+
+```
+$  cp | ctx 12%* ok | mem 4 | obs 37 | opt 71% | skill scoped-read    (~12 steps)
+```
+
+### **slipstream** &middot; *Claude Code plugin + cross-IDE MCP toolkit*
+
+Fourteen precise `sp_*` tools instead of whole-file reads. Self-building observation memory with three-layer search. Lossless compaction via the PreCompact digest, plus a cross-editor `sp_digest` for editors without hooks. A redesigned live dashboard with sparklines, a pause control and an offline inline mind map.
+
+**Six editor install paths &middot; 206 tests &middot; MIT**
+
+<br/>
+
+<a href="https://github.com/sarmakska/slipstream/releases/tag/v0.6.1"><img src="https://img.shields.io/badge/v0.6.1-shipped-34d399?style=flat-square&logo=npm&logoColor=white&labelColor=0d1117" alt="v0.6.1"/></a>
+<a href="https://github.com/sarmakska/slipstream/actions"><img src="https://img.shields.io/badge/206-tests-22d3ee?style=flat-square&logo=vitest&logoColor=white&labelColor=0d1117" alt="206 tests"/></a>
+<a href="https://github.com/sarmakska/slipstream"><img src="https://img.shields.io/badge/MIT-license-60a5fa?style=flat-square&logo=opensourceinitiative&logoColor=white&labelColor=0d1117" alt="MIT"/></a>
+<a href="https://github.com/sarmakska/slipstream/blob/main/CHANGELOG.md"><img src="https://img.shields.io/badge/changelog-v0.6.1-a78bfa?style=flat-square&logo=git&logoColor=white&labelColor=0d1117" alt="changelog"/></a>
+
+<br/><br/>
+
+<a href="https://sarmalinux.com/products/slipstream"><img src="https://img.shields.io/badge/Read%20the%20long%20plan%20→-sarmalinux.com%2Fproducts%2Fslipstream-0d1117?style=for-the-badge&logo=safari&logoColor=34d399" alt="Read the long plan"/></a>
+<a href="https://sarmalinux.com/products/slipstream/setup"><img src="https://img.shields.io/badge/Install%20in%20six%20editors%20→-Claude%20%C2%B7%20Cursor%20%C2%B7%20Windsurf%20%C2%B7%20Antigravity%20%C2%B7%20VS%20Code%20%C2%B7%20JetBrains-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=22d3ee" alt="Install in six editors"/></a>
+
+</div>
+
+---
+
 ### About
 
 Senior software engineer in Hemel Hempstead, UK. Around five years of production experience. I design and ship **LLM infrastructure**, **systems software** and **full-stack platforms**, end to end. Most of my work is open source on GitHub. Every project ships with a whitepaper, an architecture diagram and a quick-start guide on **[sarmalinux.com/products](https://sarmalinux.com/products)**.
