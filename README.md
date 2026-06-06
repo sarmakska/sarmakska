@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://sarmalinux.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=Senior+software+engineer+in+Hemel+Hempstead%2C+UK;Nineteen+open-source+projects+across+AI+infra%2C+systems%2C+platform;slipstream+v0.7.2+%C2%B7+cross-IDE+MCP+toolkit;Sarmalink-AI+%C2%B7+14-engine+failover+gateway;echo+%C2%B7+an+open+Jarvis+coming+1+July+2026;Rust+LLM+inference%2C+LSM+storage%2C+Raft%2C+WebAssembly+sandbox;Open+to+permanent+UK+roles+%C2%B7+projects%40sarmalinux.com" alt="What I do"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=Senior+software+engineer+in+Hemel+Hempstead%2C+UK;Nineteen+open-source+projects+across+AI+infra%2C+systems%2C+platform;slipstream+v1.0.0+%C2%B7+cross-IDE+MCP+toolkit;Sarmalink-AI+%C2%B7+14-engine+failover+gateway;echo+%C2%B7+an+open+Jarvis+coming+1+July+2026;Rust+LLM+inference%2C+LSM+storage%2C+Raft%2C+WebAssembly+sandbox;Open+to+permanent+UK+roles+%C2%B7+projects%40sarmalinux.com" alt="What I do"/>
 </a>
 
 <br/><br/>
@@ -54,7 +54,7 @@ Voice. Vision. Memory. A translucent multi-monitor HUD. One Rust core. Cross-pla
 <div align="center">
 
 <a href="https://github.com/sarmakska/slipstream">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=44&duration=2500&pause=600&color=34D399&center=true&vCenter=true&width=820&height=80&lines=slipstream+v0.7.2+shipped;Tabbed+dashboard%2C+five+views;14+sp_*+tools+%C2%B7+six+editors;cross-IDE+MCP+toolkit" alt="slipstream v0.7.2"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=44&duration=2500&pause=600&color=34D399&center=true&vCenter=true&width=820&height=80&lines=slipstream+v1.0.0+shipped;React+dashboard%2C+nine+views;Cross-tab+agent+bus%2C+code+graph;14+sp_*+tools+%C2%B7+six+editors;cross-IDE+MCP+toolkit" alt="slipstream v1.0.0"/>
 </a>
 
 ```
@@ -63,16 +63,16 @@ $  cp | ctx 12%* ok | mem 4 | obs 37 | opt 71% | skill scoped-read    (~12 steps
 
 ### **slipstream** &middot; *Claude Code plugin + cross-IDE MCP toolkit*
 
-Fourteen precise `sp_*` tools instead of whole-file reads. Self-building observation memory with three-layer search; v0.7.2 wired it for MCP-only editors too. Lossless compaction via the PreCompact digest, plus a cross-editor `sp_digest` for editors without hooks. A tabbed live dashboard (Live, Project, Journal, Sessions, Memory) with a 365-day activity heatmap, file leaderboard, inline-SVG donut, distilled lessons grid, version-aware restart and offline inline mind map.
+**First major release.** Fourteen precise `sp_*` tools that replace whole-file reads with scoped symbol pulls, around 95% per-read savings (reproducible via `pnpm benchmark`). A new React + Vite + d3 dashboard with nine routed views including an interactive code dependency graph. A cross-tab agent bus that lets multiple Claude Code tabs on one project coordinate at turn boundaries instead of duplicating work. A cold-start knowledge feed injected on every SessionStart so no session begins blank. Dollar cost of tokens saved, downloadable session reports, a memory doctor, the insights band, the project knowledge brief, forceful per-turn steering, and a 75-skill methodology library.
 
-**Six editor install paths &middot; 208 tests &middot; MIT**
+**Six editor install paths &middot; 321 tests &middot; MIT**
 
 <br/>
 
-<a href="https://github.com/sarmakska/slipstream/releases/tag/v0.7.2"><img src="https://img.shields.io/badge/v0.7.2-shipped-34d399?style=flat-square&logo=npm&logoColor=white&labelColor=0d1117" alt="v0.7.2"/></a>
-<a href="https://github.com/sarmakska/slipstream/actions"><img src="https://img.shields.io/badge/208-tests-22d3ee?style=flat-square&logo=vitest&logoColor=white&labelColor=0d1117" alt="208 tests"/></a>
+<a href="https://github.com/sarmakska/slipstream/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/v1.0.0-shipped-34d399?style=flat-square&logo=npm&logoColor=white&labelColor=0d1117" alt="v1.0.0"/></a>
+<a href="https://github.com/sarmakska/slipstream/actions"><img src="https://img.shields.io/badge/321-tests-22d3ee?style=flat-square&logo=vitest&logoColor=white&labelColor=0d1117" alt="321 tests"/></a>
 <a href="https://github.com/sarmakska/slipstream"><img src="https://img.shields.io/badge/MIT-license-60a5fa?style=flat-square&logo=opensourceinitiative&logoColor=white&labelColor=0d1117" alt="MIT"/></a>
-<a href="https://github.com/sarmakska/slipstream/blob/main/CHANGELOG.md"><img src="https://img.shields.io/badge/changelog-v0.7.2-a78bfa?style=flat-square&logo=git&logoColor=white&labelColor=0d1117" alt="changelog"/></a>
+<a href="https://github.com/sarmakska/slipstream/blob/main/CHANGELOG.md"><img src="https://img.shields.io/badge/changelog-v1.0.0-a78bfa?style=flat-square&logo=git&logoColor=white&labelColor=0d1117" alt="changelog"/></a>
 <a href="https://github.com/sarmakska/slipstream/wiki"><img src="https://img.shields.io/badge/wiki-29%20pages-fbbf24?style=flat-square&logo=readthedocs&logoColor=white&labelColor=0d1117" alt="wiki"/></a>
 
 <br/><br/>
@@ -98,6 +98,10 @@ What pulls me back to the desk every weekend is the same thing that pulled me in
 
 | Date | What |
 |---|---|
+| **6 Jun 2026** | [slipstream v1.0.0](https://github.com/sarmakska/slipstream/releases/tag/v1.0.0): first major release. React dashboard with nine views, interactive code graph, cross-tab agent bus, cold-start knowledge feed, reproducible `pnpm benchmark` hitting ~95% per-read, dollar cost of tokens saved, memory doctor, 75-skill library, 321 tests. |
+| **6 Jun 2026** | [slipstream v0.27.0](https://github.com/sarmakska/slipstream/releases/tag/v0.27.0): production React dashboard (Vite + TypeScript + d3) with grouped sidebar (Now / History / Knowledge), typed JSON client and interactive knowledge graph; previous page kept at `?legacy=1`. |
+| **6 Jun 2026** | [slipstream v0.24.0](https://github.com/sarmakska/slipstream/releases/tag/v0.24.0): reproducible token-savings benchmark. `pnpm benchmark` measures whole-file vs scoped reads on real files and prints a Markdown table. |
+| **6 Jun 2026** | [slipstream v0.8.0](https://github.com/sarmakska/slipstream/releases/tag/v0.8.0): dashboard insights band. Every data tab opens with a natural-language paragraph plus bullets describing the view, deterministic templates, zero LLM. |
 | **5 Jun 2026** | [slipstream v0.7.2](https://github.com/sarmakska/slipstream/releases/tag/v0.7.2): MCP-only observation memory populates (Cursor, Windsurf, Antigravity); doctor `duplicate-registration` false-positive fixed. |
 | **5 Jun 2026** | [slipstream v0.7.1](https://github.com/sarmakska/slipstream/releases/tag/v0.7.1): Windows hook telemetry persists in-process; `serverInfo.version` reads from `package.json`. |
 | **4 Jun 2026** | [slipstream v0.7.0](https://github.com/sarmakska/slipstream/releases/tag/v0.7.0): tabbed dashboard (Live, Project, Journal, Sessions, Memory) with 365-day heatmap, file leaderboard, kinds donut, distilled lessons. |
@@ -120,7 +124,7 @@ What pulls me back to the desk every weekend is the same thing that pulled me in
 
 #### Flagships
 - **[Sarmalink-ai](https://github.com/sarmakska/Sarmalink-ai)** &middot; Multi-provider OpenAI-compatible AI gateway with 14-engine failover, intent-based plugin auto-routing, MCP-shape tool catalog and Manus webhook persistence.
-- **[slipstream](https://github.com/sarmakska/slipstream)** &middot; Claude Code plugin and cross-IDE MCP toolkit. Fourteen `sp_*` tools, self-building memory, lossless compaction, tabbed live dashboard with heatmap calendar and per-day journal. 208 tests.
+- **[slipstream](https://github.com/sarmakska/slipstream)** &middot; v1.0 shipped. Claude Code plugin and cross-IDE MCP toolkit. Fourteen `sp_*` tools, self-building memory, lossless compaction, React dashboard with nine views and an interactive code dependency graph, cross-tab agent bus, cold-start knowledge feed, 75-skill methodology library. 321 tests, MIT.
 
 #### Coming next
 - **[echo](https://github.com/sarmakska/echo)** &middot; An open Jarvis. Brain-agnostic across Claude Code, Codex CLI, Gemini CLI, Ollama and LM Studio. Translucent multi-monitor HUD. Public 1 July 2026.
