@@ -35,13 +35,20 @@ Voice. Vision. Memory. A translucent multi-monitor HUD. One Rust core. Cross-pla
 
 **No API keys. No second bill. Local-first. Open source.**
 
+**Where it is now:** Phase 0 and the Phase 1 voice-loop software are in and tested, 90 tests green. A brain router across `claude`, `codex` and `gemini`; a file-based memory store; an MCP skills bus with weather, web search and files; and the voice loop with whisper.cpp speech-to-text and Piper text-to-speech, with barge-in. **Coming next:** HUD polish and multi-monitor, calendar and mail over one-click OAuth, the senses, a proactive engine, autonomous workflows, then signed installers.
+
+Roughly two years of work, built in the open. New phases roll out daily toward v1.0 on 1 July 2026.
+
 <br/>
 
 <a href="https://github.com/sarmakska/echo">
 <img src="https://img.shields.io/badge/coming-1%20July%202026-22c55e?style=for-the-badge&logo=clockify&logoColor=white" alt="coming 1 July 2026"/>
 </a>
 <a href="https://github.com/sarmakska/echo">
-<img src="https://img.shields.io/badge/in%20build-since%20Nov%202024-0a84ff?style=for-the-badge&logo=git&logoColor=white" alt="in build since Nov 2024"/>
+<img src="https://img.shields.io/badge/Phase%201-software%20in%20%C2%B7%2090%20tests-22d3ee?style=for-the-badge&logo=rust&logoColor=white" alt="Phase 1 software in, 90 tests"/>
+</a>
+<a href="https://github.com/sarmakska/echo">
+<img src="https://img.shields.io/badge/phases-rolling%20out%20daily-0a84ff?style=for-the-badge&logo=git&logoColor=white" alt="phases rolling out daily"/>
 </a>
 <a href="https://sarmalinux.com/products/echo">
 <img src="https://img.shields.io/badge/Read%20the%20long%20plan%20→-sarmalinux.com%2Fproducts%2Fecho-a78bfa?style=for-the-badge&logo=safari&logoColor=white" alt="Read the long plan"/>
@@ -98,6 +105,7 @@ What pulls me back to the desk every weekend is the same thing that pulled me in
 
 | Date | What |
 |---|---|
+| **7 Jun 2026** | [echo](https://github.com/sarmakska/echo) Phase 0 and Phase 1 software in: brain router across `claude`/`codex`/`gemini`, file-based memory, MCP skills bus, voice loop with whisper.cpp and Piper, agentic tool loop, setup wizard. 90 tests green. New phases rolling out daily toward v1.0 on 1 July 2026. |
 | **6 Jun 2026** | [slipstream v1.0.0](https://github.com/sarmakska/slipstream/releases/tag/v1.0.0): first major release. React dashboard with nine views, interactive code graph, cross-tab agent bus, cold-start knowledge feed, reproducible `pnpm benchmark` hitting ~95% per-read, dollar cost of tokens saved, memory doctor, 75-skill library, 321 tests. |
 | **6 Jun 2026** | [slipstream v0.27.0](https://github.com/sarmakska/slipstream/releases/tag/v0.27.0): production React dashboard (Vite + TypeScript + d3) with grouped sidebar (Now / History / Knowledge), typed JSON client and interactive knowledge graph; previous page kept at `?legacy=1`. |
 | **6 Jun 2026** | [slipstream v0.24.0](https://github.com/sarmakska/slipstream/releases/tag/v0.24.0): reproducible token-savings benchmark. `pnpm benchmark` measures whole-file vs scoped reads on real files and prints a Markdown table. |
@@ -127,7 +135,7 @@ What pulls me back to the desk every weekend is the same thing that pulled me in
 - **[slipstream](https://github.com/sarmakska/slipstream)** &middot; v1.0 shipped. Claude Code plugin and cross-IDE MCP toolkit. Fourteen `sp_*` tools, self-building memory, lossless compaction, React dashboard with nine views and an interactive code dependency graph, cross-tab agent bus, cold-start knowledge feed, 75-skill methodology library. 321 tests, MIT.
 
 #### Coming next
-- **[echo](https://github.com/sarmakska/echo)** &middot; An open Jarvis. Brain-agnostic across Claude Code, Codex CLI, Gemini CLI, Ollama and LM Studio. Translucent multi-monitor HUD. Public 1 July 2026.
+- **[echo](https://github.com/sarmakska/echo)** &middot; An open Jarvis. Brain-agnostic across Claude Code, Codex CLI, Gemini CLI, Ollama and LM Studio. Translucent multi-monitor HUD. Phase 0 and Phase 1 software in, 90 tests; new phases rolling out daily. Public v1.0 on 1 July 2026.
 
 #### AI infrastructure
 - **[agent-orchestrator](https://github.com/sarmakska/agent-orchestrator)** &middot; Durable multi-agent workflows in TypeScript, deterministic replay, journaled Postgres state, BullMQ step queue, Inspector UI.
