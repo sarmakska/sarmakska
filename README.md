@@ -407,14 +407,23 @@ The full eight-tier stack with every choice and why it earned a place lives at *
 ### Stats
 
 <a href="https://github.com/sarmakska">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sarmakska&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&title_color=34d399&icon_color=22d3ee&text_color=c9d1d9&ring_color=22d3ee" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sarmakska&hide_border=true&background=0d1117&stroke=22d3ee&ring=34d399&fire=ec4899&currStreakLabel=34d399&sideLabels=22d3ee&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Streak"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sarmakska&hide_border=true&background=0d1117&stroke=22d3ee&ring=34d399&fire=ec4899&currStreakLabel=34d399&sideLabels=22d3ee&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Streak"/>
 </a>
+
+<br/><br/>
+
+<a href="https://github.com/sarmakska?tab=repositories">
+<img src="https://img.shields.io/badge/MIT%20open--source%20projects-19-22d3ee?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="19 OSS projects"/>
+</a>
+<a href="https://sarmalinux.com/blog">
+<img src="https://img.shields.io/badge/Long--form%20essays-87-8b5cf6?style=for-the-badge&logo=substack&logoColor=white&labelColor=0d1117" alt="87 essays"/>
+</a>
+<img src="https://img.shields.io/github/stars/sarmakska?affiliations=OWNER&style=for-the-badge&color=a78bfa&logo=star&logoColor=white&labelColor=0d1117&label=Total%20stars" alt="Stars"/>
+<img src="https://img.shields.io/github/followers/sarmakska?style=for-the-badge&color=34d399&logo=github&logoColor=white&labelColor=0d1117&label=Followers" alt="Followers"/>
 
 <br/>
 
 <a href="https://github.com/sarmakska">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarmakska&layout=compact&hide_border=true&bg_color=0d1117&title_color=34d399&text_color=c9d1d9&langs_count=10" alt="Top languages"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarmakska&theme=react-dark&hide_border=true&bg_color=0d1117&color=34d399&line=22d3ee&point=a78bfa&area=true&area_color=34d399" alt="Activity graph"/>
 </a>
 
