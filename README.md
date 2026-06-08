@@ -7,12 +7,6 @@
 <div align="center">
 
 <a href="https://sarmalinux.com">
-<img src="https://raw.githubusercontent.com/sarmakska/sarmakska/main/.github/hero.svg" width="100%" alt="visitor@sarmalinux:~$"/>
-</a>
-
-<br/>
-
-<a href="https://sarmalinux.com">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,15:0a0a14,35:0d2e4f,55:0f766e,75:0891b2,90:22d3ee,100:34d399&height=280&section=header&text=sarmalinux&fontSize=120&fontColor=ffffff&fontAlignY=42&desc=open-source%20studio%20%C2%B7%20nineteen%20projects%20%C2%B7%20eighty-seven%20essays&descAlignY=70&descSize=20&animation=fadeIn" width="100%" alt="sarmalinux, open-source studio, nineteen projects, eighty-seven essays"/>
 </a>
 
