@@ -422,11 +422,6 @@ The full eight-tier stack with every choice and why it earned a place lives at *
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarmakska&theme=react-dark&hide_border=true&bg_color=0d1117&color=34d399&line=22d3ee&point=a78bfa&area=true&area_color=34d399" alt="Activity graph"/>
 </a>
 
-<br/><br/>
-
-<a href="https://github.com/sarmakska">
-<img src="https://github-profile-trophy.vercel.app/?username=sarmakska&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
-</a>
 
 </div>
 
