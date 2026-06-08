@@ -1,68 +1,149 @@
+<!--
+  sarmakska/sarmakska
+  https://github.com/sarmakska
+  https://sarmalinux.com
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20&height=210&section=header&text=Sarma&fontSize=82&fontColor=ffffff&fontAlignY=38&desc=Hemel%20Hempstead%2C%20UK%20%C2%B7%20Nineteen%20open-source%20projects&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Sarma, Hemel Hempstead, nineteen open-source projects"/>
+<a href="https://sarmalinux.com">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,15:0a0a14,30:0d2e4f,50:0f766e,70:0891b2,85:22d3ee,100:34d399&height=320&section=header&text=Sarma&fontSize=140&fontColor=ffffff&fontAlignY=40&desc=Hemel%20Hempstead%20%C2%B7%20Nineteen%20open-source%20projects%20%C2%B7%2087%20long-form%20essays&descAlignY=66&descSize=20&animation=fadeIn" width="100%" alt="Sarma, Hemel Hempstead, nineteen open-source projects, 87 long-form essays"/>
+</a>
+
+<a href="https://sarmalinux.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2300&pause=700&color=22D3EE&background=00000000&center=true&vCenter=true&width=940&height=70&lines=Senior+software+engineer+%C2%B7+Hemel+Hempstead%2C+UK;Nineteen+open-source+projects+%C2%B7+AI+infra+%C2%B7+systems+%C2%B7+platform;slipstream+v1.0+%C2%B7+cross-IDE+MCP+toolkit+%C2%B7+~95%25+per-read+savings;Sarmalink-AI+%C2%B7+36-engine+failover+%C2%B7+7+providers+%C2%B7+%3C50ms+handoff;echo+%C2%B7+open+Jarvis+%C2%B7+brain-agnostic+%C2%B7+one+Rust+core;Eighty-seven+long-form+engineering+essays;Open+to+permanent+UK+PAYE+roles" alt="What I do"/>
+</a>
 
 <br/>
 
-<a href="https://sarmalinux.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=Senior+software+engineer+in+Hemel+Hempstead%2C+UK;Nineteen+open-source+projects+across+AI+infra%2C+systems%2C+platform;slipstream+v1.0.0+%C2%B7+cross-IDE+MCP+toolkit;Sarmalink-AI+%C2%B7+36-engine+failover+across+7+providers;echo+%C2%B7+an+open+Jarvis+coming+1+July+2026;Rust+LLM+inference%2C+LSM+storage%2C+Raft%2C+WebAssembly+sandbox;Open+to+permanent+UK+roles+%C2%B7+projects%40sarmalinux.com" alt="What I do"/>
+<a href="https://sarmalinux.com"><img src="https://img.shields.io/badge/sarmalinux.com-0a0a14?style=for-the-badge&logo=safari&logoColor=22d3ee&labelColor=0a0a14" alt="Website"/></a>
+<a href="https://sarmalinux.com/hire-me"><img src="https://img.shields.io/badge/Hire%20me-permanent%20UK%20PAYE-22c55e?style=for-the-badge&logo=briefcase&logoColor=white" alt="Hire me"/></a>
+<a href="https://sarmalinux.com/blog"><img src="https://img.shields.io/badge/Engineering%20essays-87%2B-8b5cf6?style=for-the-badge&logo=substack&logoColor=white" alt="Essays"/></a>
+<a href="https://sarmalinux.com/charity"><img src="https://img.shields.io/badge/Free%20websites%20Hemel-charity-ef4444?style=for-the-badge&logo=heart&logoColor=white" alt="Charity"/></a>
+<a href="https://www.linkedin.com/in/sarmalinux"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sarmakska&label=Profile%20views&color=22d3ee&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/sarmakska?logo=github&label=Followers&style=for-the-badge&color=34d399&labelColor=0d1117" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/sarmakska?affiliations=OWNER&style=for-the-badge&color=a78bfa&logo=star&logoColor=white&labelColor=0d1117" alt="Stars"/>
+<img src="https://img.shields.io/badge/UK-PAYE%20only-22c55e?style=for-the-badge&logo=unitedkingdom&logoColor=white&labelColor=0d1117" alt="UK PAYE only"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,20,2,5,6&height=2&width=100%" alt="separator"/>
+
+</div>
+
+<br/>
+
+<!-- ============================================================== -->
+<!-- ==================== SARMALINK-AI ============================ -->
+<!-- ============================================================== -->
+
+<div align="center">
+
+<a href="https://github.com/sarmakska/Sarmalink-ai">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a14,30:0d2e4f,55:0891b2,80:f97316,100:fbbf24&height=200&section=header&text=Sarmalink-AI&fontSize=80&fontColor=ffffff&fontAlignY=44&desc=Multi-provider%20AI%20gateway%20%C2%B7%2036%20engines%20across%207%20providers%20%C2%B7%20%3C50ms%20failover&descSize=18&descAlignY=78&animation=fadeIn" width="100%" alt="Sarmalink-AI, 36 engines across 7 providers, <50ms failover"/>
 </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=500&color=F97316&background=00000000&center=true&vCenter=true&width=940&height=60&lines=POST+%2Fapi%2Fv1%2Fchat%2Fcompletions+%C2%B7+OpenAI-compatible;Provider+A+returns+429+%E2%87%92+Provider+B+fires+in+%3C+50ms;36+engines+%C2%B7+composite+uptime+headroom+99.9999%25;Intent+auto-router+%C2%B7+MCP-shape+tool+catalog;Persistent+memory+%C2%B7+FLUX+image+gen+%C2%B7+TTS+%2B+STT+cascades" alt="Sarmalink-AI live ticker"/>
+
+<br/>
+
+### **Sarmalink-AI** &middot; *one endpoint, thirty-six engines, zero surprise bills*
+
+</div>
+
+<div align="center" style="max-width:820px;margin:0 auto;">
+
+**Drop-in OpenAI-compatible gateway.** Every request fans across 36 engines from 7 providers. When the primary returns 429 or 5xx, the next engine fires in **under 50 milliseconds**. Round-robin key rotation, six specialised modes (Smart, Reasoner, Live, Fast, Coder, Vision), an MCP-shape tool catalog, persistent user memory, FLUX image generation with key rotation, plus TTS / STT cascades. Built so an internal AI product never sees an outage the way a single-provider wrapper does.
+
+</div>
+
+<br/>
+
+<div align="center">
+
+#### How a request flows
+
+</div>
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0d2e4f','primaryTextColor':'#e6f5ff','lineColor':'#22d3ee','primaryBorderColor':'#22d3ee','actorBkg':'#1e3a5f','actorBorder':'#22d3ee','actorTextColor':'#ffffff'}}}%%
+sequenceDiagram
+    autonumber
+    participant Client as 📱 Client
+    participant Router as 🧠 Intent Router
+    participant PA as ⚡ Primary Engine
+    participant PB as 🔄 Failover Engine
+    participant Mem as 💾 Memory + Tools
+    Client->>Router: POST /api/v1/chat
+    Router->>Router: classify intent (Smart / Live / Coder / ...)
+    Router->>PA: dispatch primary
+    PA-->>Router: 429 Too Many Requests
+    Note over Router,PB: handoff in under 50ms
+    Router->>PB: retry on next engine
+    PB->>Mem: recall facts + tools
+    Mem-->>PB: context window
+    PB-->>Router: 200 streaming
+    Router-->>Client: SSE first token ~120ms
+```
+
+<br/>
+
+<div align="center">
+
+#### Seven providers, thirty-six engines, six modes
+
+<table align="center">
+<tr>
+<td align="center" width="14%"><img src="https://img.shields.io/badge/Groq-LPU%20chip-f97316?style=for-the-badge&logoColor=white" alt="Groq"/><br/><sub><b>5 engines</b><br/>GPT-OSS 120B + 20B</sub></td>
+<td align="center" width="14%"><img src="https://img.shields.io/badge/SambaNova-RDU-8b5cf6?style=for-the-badge&logoColor=white" alt="SambaNova"/><br/><sub><b>4 engines</b><br/>DeepSeek V3.2 685B</sub></td>
+<td align="center" width="14%"><img src="https://img.shields.io/badge/Cerebras-WSE--3-06b6d4?style=for-the-badge&logoColor=white" alt="Cerebras"/><br/><sub><b>3 engines</b><br/>Qwen 3 235B</sub></td>
+<td align="center" width="14%"><img src="https://img.shields.io/badge/Gemini-Google%20Search-4285f4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/><br/><sub><b>4 engines</b><br/>2.5 Flash + 3 Preview</sub></td>
+<td align="center" width="14%"><img src="https://img.shields.io/badge/OpenRouter-aggregator-10b981?style=for-the-badge&logoColor=white" alt="OpenRouter"/><br/><sub><b>17 engines</b><br/>Nemotron / GLM / Gemma</sub></td>
+<td align="center" width="14%"><img src="https://img.shields.io/badge/Cloudflare-FLUX.2-f59e0b?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/><br/><sub><b>image gen</b><br/>klein 9B + 4B</sub></td>
+<td align="center" width="14%"><img src="https://img.shields.io/badge/Tavily-search-ef4444?style=for-the-badge&logoColor=white" alt="Tavily"/><br/><sub><b>live tools</b><br/>weather / FX / news</sub></td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://github.com/sarmakska/Sarmalink-ai"><img src="https://img.shields.io/badge/36-engines-22d3ee?style=flat-square&logoColor=white&labelColor=0d1117" alt="36 engines"/></a>
+<a href="https://github.com/sarmakska/Sarmalink-ai"><img src="https://img.shields.io/badge/7-providers-f97316?style=flat-square&logoColor=white&labelColor=0d1117" alt="7 providers"/></a>
+<a href="https://github.com/sarmakska/Sarmalink-ai"><img src="https://img.shields.io/badge/%3C50ms-failover-22c55e?style=flat-square&logoColor=white&labelColor=0d1117" alt="<50ms failover"/></a>
+<a href="https://github.com/sarmakska/Sarmalink-ai"><img src="https://img.shields.io/badge/MIT-license-60a5fa?style=flat-square&logo=opensourceinitiative&logoColor=white&labelColor=0d1117" alt="MIT"/></a>
+<a href="https://github.com/sarmakska/Sarmalink-ai/wiki"><img src="https://img.shields.io/badge/wiki-Setup%20Guide-fbbf24?style=flat-square&logo=readthedocs&logoColor=white&labelColor=0d1117" alt="wiki"/></a>
 
 <br/><br/>
 
-[![Website](https://img.shields.io/badge/sarmalinux.com-0a0a14?style=for-the-badge&logo=safari&logoColor=22d3ee&labelColor=0a0a14)](https://sarmalinux.com)
-[![Hire me](https://img.shields.io/badge/Hire%20me-permanent%20UK%20PAYE-22c55e?style=for-the-badge&logo=briefcase&logoColor=white)](https://sarmalinux.com/hire-me)
-[![Blog](https://img.shields.io/badge/Engineering%20essays-87%2B-8b5cf6?style=for-the-badge&logo=substack&logoColor=white)](https://sarmalinux.com/blog)
-[![Charity](https://img.shields.io/badge/Free%20website%20for%20Hemel-charity-ef4444?style=for-the-badge&logo=heart&logoColor=white)](https://sarmalinux.com/charity)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarmalinux)
+<a href="https://sarmalinux.com/products/sarmalink-ai"><img src="https://img.shields.io/badge/Long%20plan%20%2B%20whitepaper%20→-sarmalinux.com%2Fproducts%2Fsarmalink--ai-0d1117?style=for-the-badge&logo=safari&logoColor=22d3ee" alt="Read the long plan"/></a>
+<a href="https://github.com/sarmakska/Sarmalink-ai"><img src="https://img.shields.io/badge/Clone%20%2B%20deploy%20→-15%20minutes%20to%20your%20own%20gateway-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee" alt="Clone and deploy"/></a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
-
-<a href="https://github.com/sarmakska/echo">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20&height=160&section=header&text=echo&fontSize=72&fontColor=ffffff&fontAlignY=52&desc=an%20open%20Jarvis%2C%20on%20every%20screen&descSize=16&descAlignY=82&animation=fadeIn" width="100%" alt="echo, an open Jarvis, coming 1 July 2026"/>
-</a>
-
-<br/>
-
-### **echo** &middot; *an open Jarvis on every screen*
-
-A personal AI assistant that runs on the subscription you already pay for.
-Voice. Vision. Memory. A translucent multi-monitor HUD. One Rust core. Cross-platform.
-
-**No API keys. No second bill. Local-first. Open source.**
-
-**Where it is now:** Foundation and the orchestration layer are in and tested, 64 tests green. The brain router across `claude`, `codex` and `gemini` is wired and proven against a fake CLI; the file-based memory store with PreSession digests is live; an MCP skills bus runs weather, web search and files; the voice traits are defined and the macOS TTS adapter is real. **What is still landing:** real Porcupine wake word, real cpal mic capture, real whisper.cpp speech-to-text, real Piper TTS as the cross-platform default, the wired end-to-end voice loop, the setup wizard and the sqlite-vss vector memory. **Then:** HUD polish and multi-monitor, calendar and mail over one-click OAuth, the senses, a proactive engine, autonomous workflows, signed installers.
-
-Roughly two years of work, built in the open. New phases roll out daily toward v1.0 on 1 July 2026.
-
-<br/>
-
-<a href="https://github.com/sarmakska/echo">
-<img src="https://img.shields.io/badge/coming-1%20July%202026-22c55e?style=for-the-badge&logo=clockify&logoColor=white" alt="coming 1 July 2026"/>
-</a>
-<a href="https://github.com/sarmakska/echo">
-<img src="https://img.shields.io/badge/Phase%200%20%2B%201-foundation%20in%20%C2%B7%2064%20tests-22d3ee?style=for-the-badge&logo=rust&logoColor=white" alt="Phase 0 + 1 foundation in, 64 tests"/>
-</a>
-<a href="https://github.com/sarmakska/echo">
-<img src="https://img.shields.io/badge/phases-rolling%20out%20daily-0a84ff?style=for-the-badge&logo=git&logoColor=white" alt="phases rolling out daily"/>
-</a>
-<a href="https://sarmalinux.com/products/echo">
-<img src="https://img.shields.io/badge/Read%20the%20long%20plan%20→-sarmalinux.com%2Fproducts%2Fecho-a78bfa?style=for-the-badge&logo=safari&logoColor=white" alt="Read the long plan"/>
-</a>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,17,12&height=2&width=100%" alt="separator"/>
 </div>
 
----
+<!-- ============================================================== -->
+<!-- ==================== SLIPSTREAM =============================== -->
+<!-- ============================================================== -->
+
+<br/>
 
 <div align="center">
 
 <a href="https://github.com/sarmakska/slipstream">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=44&duration=2500&pause=600&color=34D399&center=true&vCenter=true&width=820&height=80&lines=slipstream+v1.0.0+shipped;React+dashboard%2C+nine+views;Cross-tab+agent+bus%2C+code+graph;14+sp_*+tools+%C2%B7+six+editors;cross-IDE+MCP+toolkit" alt="slipstream v1.0.0"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a14,30:064e3b,55:047857,80:34d399,100:6ee7b7&height=200&section=header&text=slipstream+v1.0&fontSize=72&fontColor=ffffff&fontAlignY=44&desc=Cross-IDE+MCP+toolkit+%C2%B7+~95%25+per-read+savings+%C2%B7+React+dashboard&descSize=18&descAlignY=78&animation=fadeIn" width="100%" alt="slipstream v1.0, cross-IDE MCP toolkit, 95% per-read savings"/>
 </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=500&color=34D399&background=00000000&center=true&vCenter=true&width=940&height=60&lines=14+sp_*+tools+%C2%B7+scoped+symbol+pulls+over+whole-file+reads;React+%2B+Vite+%2B+d3+dashboard+%C2%B7+nine+routed+views;Cross-tab+agent+bus+%C2%B7+turn-boundary+coordination;75-skill+methodology+library+%C2%B7+memory+doctor;321+tests+%C2%B7+six+editor+install+paths+%C2%B7+MIT" alt="slipstream live ticker"/>
 
 ```
 $  cp | ctx 12%* ok | mem 4 | obs 37 | opt 71% | skill scoped-read    (~12 steps)
@@ -70,28 +151,103 @@ $  cp | ctx 12%* ok | mem 4 | obs 37 | opt 71% | skill scoped-read    (~12 steps
 
 ### **slipstream** &middot; *Claude Code plugin + cross-IDE MCP toolkit*
 
-**First major release.** Fourteen precise `sp_*` tools that replace whole-file reads with scoped symbol pulls, around 95% per-read savings (reproducible via `pnpm benchmark`). A new React + Vite + d3 dashboard with nine routed views including an interactive code dependency graph. A cross-tab agent bus that lets multiple Claude Code tabs on one project coordinate at turn boundaries instead of duplicating work. A cold-start knowledge feed injected on every SessionStart so no session begins blank. Dollar cost of tokens saved, downloadable session reports, a memory doctor, the insights band, the project knowledge brief, forceful per-turn steering, and a 75-skill methodology library.
+</div>
+
+<div align="center" style="max-width:820px;margin:0 auto;">
+
+**First major release.** Fourteen `sp_*` tools replace whole-file reads with scoped symbol pulls, reproducible **~95% per-read savings** via `pnpm benchmark`. A React + Vite + d3 dashboard with nine routed views including an interactive code dependency graph. A cross-tab agent bus that lets multiple Claude Code tabs on one project coordinate at turn boundaries. A cold-start knowledge feed on every SessionStart so no session begins blank. Dollar cost of tokens saved, downloadable session reports, a memory doctor, the insights band, the project knowledge brief, and a 75-skill methodology library.
 
 **Six editor install paths &middot; 321 tests &middot; MIT**
+
+</div>
+
+<div align="center">
 
 <br/>
 
 <a href="https://github.com/sarmakska/slipstream/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/v1.0.0-shipped-34d399?style=flat-square&logo=npm&logoColor=white&labelColor=0d1117" alt="v1.0.0"/></a>
 <a href="https://github.com/sarmakska/slipstream/actions"><img src="https://img.shields.io/badge/321-tests-22d3ee?style=flat-square&logo=vitest&logoColor=white&labelColor=0d1117" alt="321 tests"/></a>
+<a href="https://github.com/sarmakska/slipstream"><img src="https://img.shields.io/badge/14-sp_*%20tools-8b5cf6?style=flat-square&logoColor=white&labelColor=0d1117" alt="14 sp tools"/></a>
+<a href="https://github.com/sarmakska/slipstream"><img src="https://img.shields.io/badge/75-skills-f59e0b?style=flat-square&logo=book&logoColor=white&labelColor=0d1117" alt="75 skills"/></a>
 <a href="https://github.com/sarmakska/slipstream"><img src="https://img.shields.io/badge/MIT-license-60a5fa?style=flat-square&logo=opensourceinitiative&logoColor=white&labelColor=0d1117" alt="MIT"/></a>
 <a href="https://github.com/sarmakska/slipstream/blob/main/CHANGELOG.md"><img src="https://img.shields.io/badge/changelog-v1.0.0-a78bfa?style=flat-square&logo=git&logoColor=white&labelColor=0d1117" alt="changelog"/></a>
 <a href="https://github.com/sarmakska/slipstream/wiki"><img src="https://img.shields.io/badge/wiki-29%20pages-fbbf24?style=flat-square&logo=readthedocs&logoColor=white&labelColor=0d1117" alt="wiki"/></a>
 
 <br/><br/>
 
-<a href="https://sarmalinux.com/products/slipstream"><img src="https://img.shields.io/badge/Read%20the%20long%20plan%20→-sarmalinux.com%2Fproducts%2Fslipstream-0d1117?style=for-the-badge&logo=safari&logoColor=34d399" alt="Read the long plan"/></a>
+<a href="https://sarmalinux.com/products/slipstream"><img src="https://img.shields.io/badge/Long%20plan%20%2B%20whitepaper%20→-sarmalinux.com%2Fproducts%2Fslipstream-0d1117?style=for-the-badge&logo=safari&logoColor=34d399" alt="Read the long plan"/></a>
 <a href="https://sarmalinux.com/products/slipstream/setup"><img src="https://img.shields.io/badge/Install%20in%20six%20editors%20→-Claude%20%C2%B7%20Cursor%20%C2%B7%20Windsurf%20%C2%B7%20Antigravity%20%C2%B7%20VS%20Code%20%C2%B7%20JetBrains-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=22d3ee" alt="Install in six editors"/></a>
 
 </div>
 
----
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,6,5&height=2&width=100%" alt="separator"/>
+</div>
+
+<!-- ============================================================== -->
+<!-- ==================== ECHO ===================================== -->
+<!-- ============================================================== -->
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/sarmakska/echo">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a14,30:3b0764,55:7e22ce,80:a78bfa,100:e9d5ff&height=200&section=header&text=echo&fontSize=88&fontColor=ffffff&fontAlignY=44&desc=open%20Jarvis%20%C2%B7%20brain-agnostic%20%C2%B7%20one%20Rust%20core%20%C2%B7%201%20July%202026&descSize=18&descAlignY=78&animation=fadeIn" width="100%" alt="echo, open Jarvis, brain-agnostic, one Rust core, 1 July 2026"/>
+</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=600&color=A78BFA&background=00000000&center=true&vCenter=true&width=940&height=60&lines=Bring-your-own-subscription+%C2%B7+claude+%2F+codex+%2F+gemini;Voice+in.+Voice+out.+Vision+when+it+helps.+Memory.;Translucent+multi-monitor+HUD+%C2%B7+one+Rust+core;Foundation+%2B+orchestration+in+%C2%B7+64+tests+green;Real+audio+I%2FO+%2B+setup+wizard+next" alt="echo live ticker"/>
+
+<br/>
+
+### **echo** &middot; *the open Jarvis you actually own*
+
+</div>
+
+<div align="center" style="max-width:820px;margin:0 auto;">
+
+**Bring-your-own-subscription.** Echo never asks for an API key. It dispatches each prompt to whichever subscription-backed CLI you already pay for, `claude`, `codex` or `gemini`, picked by a router that scores capability, quota remaining and freshness. Voice in. Voice out. Vision when it helps. Memory across years. Translucent multi-monitor HUD planned. Cross-platform from one Rust core. MIT. Local-first.
+
+**Where it is now:** Foundation + the orchestration layer are in and tested, **64 tests green**. The brain router across `claude`/`codex`/`gemini` is wired and proven against a fake CLI; the file-based memory store with PreSession digests is live; an MCP skills bus runs weather / web search / files; the voice traits are defined and the macOS TTS adapter is real.
+
+**What is still landing:** real Porcupine wake word, real cpal mic capture, real whisper.cpp speech-to-text, real Piper TTS as the cross-platform default, the wired end-to-end voice loop, the setup wizard, sqlite-vss vector memory.
+
+**Then:** HUD polish + multi-monitor, calendar + mail over one-click OAuth, the senses, a proactive engine, autonomous workflows, signed installers.
+
+</div>
+
+<div align="center">
+
+<br/>
+
+<a href="https://github.com/sarmakska/echo"><img src="https://img.shields.io/badge/coming-1%20July%202026-a78bfa?style=for-the-badge&logo=clockify&logoColor=white" alt="coming 1 July 2026"/></a>
+<a href="https://github.com/sarmakska/echo"><img src="https://img.shields.io/badge/Phase%200%20%2B%201-foundation%20in%20%C2%B7%2064%20tests-22d3ee?style=for-the-badge&logo=rust&logoColor=white" alt="Phase 0 + 1 foundation in, 64 tests"/></a>
+<a href="https://github.com/sarmakska/echo"><img src="https://img.shields.io/badge/phases-landing%20daily-0a84ff?style=for-the-badge&logo=git&logoColor=white" alt="phases landing daily"/></a>
+<a href="https://sarmalinux.com/products/echo"><img src="https://img.shields.io/badge/Long%20plan%20→-sarmalinux.com%2Fproducts%2Fecho-a78bfa?style=for-the-badge&logo=safari&logoColor=white" alt="Long plan"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,20&height=2&width=100%" alt="separator"/>
+</div>
+
+<!-- ============================================================== -->
+<!-- ==================== ABOUT ==================================== -->
+<!-- ============================================================== -->
+
+<br/>
+
+<div align="center">
 
 ### About
+
+</div>
+
+<div align="center" style="max-width:820px;margin:0 auto;">
 
 Senior software engineer in Hemel Hempstead, UK. Around five years of production experience. I design and ship **LLM infrastructure**, **systems software** and **full-stack platforms**, end to end. Every project is open source on GitHub, with a whitepaper, an architecture diagram and a quick-start guide on **[sarmalinux.com/products](https://sarmalinux.com/products)**.
 
@@ -99,21 +255,35 @@ What pulls me back to the desk every weekend is the same thing that pulled me in
 
 **Nineteen MIT-licensed repositories. Eighty-seven long-form engineering essays. Two flagships in active release, one launching 1 July 2026. Open to permanent PAYE roles in the UK.**
 
----
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,20&height=2&width=100%" alt="separator"/>
+</div>
+
+<!-- ============================================================== -->
+<!-- ==================== RECENT SHIPS ============================= -->
+<!-- ============================================================== -->
+
+<br/>
+
+<div align="center">
 
 ### Recent ships
+
+</div>
 
 | Date | What |
 |---|---|
 | **8 Jun 2026** | [echo](https://github.com/sarmakska/echo) Phase 0 + brain-router scaffolding in: `Brain` trait + Claude/Codex/Gemini subprocess wrappers, capability-and-quota router, file-based memory with PreSession digests, MCP skills bus with weather/web-search/files, voice traits + macOS TTS. 64 tests green. Real wake word, mic, whisper.cpp and Piper are next. v1.0 still aimed at 1 July 2026. |
+| **7 Jun 2026** | [sarmalinux.com](https://sarmalinux.com) cache-control overhaul: marketing pages now serve `public, max-age=0, must-revalidate` with `x-vercel-cache: PRERENDER`. Root layout no longer reads `headers()`, three public Server Components switched off the cookie-aware Supabase client. bfcache + edge caching restored site-wide. |
 | **6 Jun 2026** | [slipstream v1.0.0](https://github.com/sarmakska/slipstream/releases/tag/v1.0.0): first major release. React dashboard with nine views, interactive code graph, cross-tab agent bus, cold-start knowledge feed, reproducible `pnpm benchmark` hitting ~95% per-read, dollar cost of tokens saved, memory doctor, 75-skill library, 321 tests. |
-| **6 Jun 2026** | [slipstream v0.27.0](https://github.com/sarmakska/slipstream/releases/tag/v0.27.0): production React dashboard (Vite + TypeScript + d3) with grouped sidebar (Now / History / Knowledge), typed JSON client and interactive knowledge graph; previous page kept at `?legacy=1`. |
+| **6 Jun 2026** | [slipstream v0.27.0](https://github.com/sarmakska/slipstream/releases/tag/v0.27.0): production React dashboard (Vite + TypeScript + d3) with grouped sidebar (Now / History / Knowledge), typed JSON client and interactive knowledge graph. |
 | **6 Jun 2026** | [slipstream v0.24.0](https://github.com/sarmakska/slipstream/releases/tag/v0.24.0): reproducible token-savings benchmark. `pnpm benchmark` measures whole-file vs scoped reads on real files and prints a Markdown table. |
-| **6 Jun 2026** | [slipstream v0.8.0](https://github.com/sarmakska/slipstream/releases/tag/v0.8.0): dashboard insights band. Every data tab opens with a natural-language paragraph plus bullets describing the view, deterministic templates, zero LLM. |
-| **5 Jun 2026** | [slipstream v0.7.2](https://github.com/sarmakska/slipstream/releases/tag/v0.7.2): MCP-only observation memory populates (Cursor, Windsurf, Antigravity); doctor `duplicate-registration` false-positive fixed. |
-| **5 Jun 2026** | [slipstream v0.7.1](https://github.com/sarmakska/slipstream/releases/tag/v0.7.1): Windows hook telemetry persists in-process; `serverInfo.version` reads from `package.json`. |
+| **6 Jun 2026** | [slipstream v0.8.0](https://github.com/sarmakska/slipstream/releases/tag/v0.8.0): dashboard insights band. Every data tab opens with a natural-language paragraph plus bullets, deterministic templates, zero LLM. |
 | **4 Jun 2026** | [slipstream v0.7.0](https://github.com/sarmakska/slipstream/releases/tag/v0.7.0): tabbed dashboard (Live, Project, Journal, Sessions, Memory) with 365-day heatmap, file leaderboard, kinds donut, distilled lessons. |
-| **4 Jun 2026** | [slipstream v0.6.1](https://github.com/sarmakska/slipstream/releases/tag/v0.6.1): `/api/health`, version-aware dashboard restart, three new doctor checks for cross-IDE setup pitfalls. |
 | **4 Jun 2026** | [slipstream v0.6.0](https://github.com/sarmakska/slipstream/releases/tag/v0.6.0): cross-IDE parity (`sp_digest` + `sp_resume` + auto-mode-detect + `slipstream-setup`), nine backend features, redesigned glass-on-dark dashboard. |
 | **3 Jun 2026** | [NVIDIA Computex 2026 recap](https://sarmalinux.com/blog/nvidia-computex-2026-what-ai-engineers-need-to-know): Vera Rubin NVL72 in production, RTX Spark, Cosmos 3, Nemotron 3 Ultra. |
 | **1 Jun 2026** | [AI Engineer World's Fair 2026 recap](https://sarmalinux.com/blog/ai-engineer-worlds-fair-2026-what-mattered): MCP took the year. Six themes that defined where AI engineering is going. |
@@ -122,11 +292,25 @@ What pulls me back to the desk every weekend is the same thing that pulled me in
 | **28 May 2026** | sarmalinux.com chatbot Martha: streaming sentence-by-sentence TTS via the IONOS voice VPS, 5-engine LLM ladder, mobile bottom-sheet UX. |
 | **3 May 2026** | [Sarmalink-AI v2](https://github.com/sarmakska/Sarmalink-ai): intent auto-routing, MCP-shape tool catalog, TTS/STT cascades, image generation rotation. |
 
----
+<br/>
 
-### The portfolio, nineteen MIT-licensed projects
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,17,12&height=2&width=100%" alt="separator"/>
+</div>
 
-<table>
+<!-- ============================================================== -->
+<!-- ==================== PORTFOLIO ================================ -->
+<!-- ============================================================== -->
+
+<br/>
+
+<div align="center">
+
+### The portfolio &middot; nineteen MIT-licensed projects
+
+</div>
+
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
@@ -170,13 +354,27 @@ What pulls me back to the desk every weekend is the same thing that pulled me in
 </tr>
 </table>
 
+<div align="center">
+
 > Every repo has a bespoke product trio on **[sarmalinux.com/products](https://sarmalinux.com/products)**: whitepaper, architecture diagram, quick-start. All MIT.
 
----
+</div>
 
-### Stack
+<br/>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,6,5&height=2&width=100%" alt="separator"/>
+</div>
+
+<!-- ============================================================== -->
+<!-- ==================== STACK ==================================== -->
+<!-- ============================================================== -->
+
+<br/>
+
+<div align="center">
+
+### Stack
 
 <img src="https://skillicons.dev/icons?i=ts,py,go,rust,nextjs,nodejs,fastapi,fastify,postgres,supabase,redis,docker&perline=12" alt="Languages and frameworks"/>
 
@@ -186,27 +384,41 @@ What pulls me back to the desk every weekend is the same thing that pulled me in
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AI%20infrastructure-multi--provider%20gateways%20%C2%B7%20failover-22d3ee?style=flat-square"/>
-<img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-06b6d4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Agent%20orchestration-deterministic%20replay-8b5cf6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Voice-WebRTC%20%C2%B7%20mediasoup%20%C2%B7%20sub--second-f59e0b?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-HNSW%20%C2%B7%20cosine%20%C2%B7%20citations-10b981?style=flat-square"/>
-<img src="https://img.shields.io/badge/Inference-Rust%20%C2%B7%20paged%20KV%20%C2%B7%20speculative-f43f5e?style=flat-square"/>
-<img src="https://img.shields.io/badge/Storage-LSM%20%C2%B7%20WAL%20%C2%B7%20MVCC-3b82f6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Consensus-Raft%20%C2%B7%20fault%20injection-a78bfa?style=flat-square"/>
-<img src="https://img.shields.io/badge/Sandboxing-WebAssembly%20%C2%B7%20capability%20ABI-fb7185?style=flat-square"/>
-<img src="https://img.shields.io/badge/Evals-LLM--as--judge%20%C2%B7%20regression-eab308?style=flat-square"/>
-<img src="https://img.shields.io/badge/Platform-Kubernetes%20%C2%B7%20Helm%20%C2%B7%20Terraform-22c55e?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20infrastructure-multi--provider%20gateways%20%C2%B7%20failover-22d3ee?style=flat-square" alt="AI infrastructure"/>
+<img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-06b6d4?style=flat-square" alt="MCP"/>
+<img src="https://img.shields.io/badge/Agent%20orchestration-deterministic%20replay-8b5cf6?style=flat-square" alt="Agent orchestration"/>
+<img src="https://img.shields.io/badge/Voice-WebRTC%20%C2%B7%20mediasoup%20%C2%B7%20sub--second-f59e0b?style=flat-square" alt="Voice"/>
+<img src="https://img.shields.io/badge/RAG-HNSW%20%C2%B7%20cosine%20%C2%B7%20citations-10b981?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/Inference-Rust%20%C2%B7%20paged%20KV%20%C2%B7%20speculative-f43f5e?style=flat-square" alt="Inference"/>
+<img src="https://img.shields.io/badge/Storage-LSM%20%C2%B7%20WAL%20%C2%B7%20MVCC-3b82f6?style=flat-square" alt="Storage"/>
+<img src="https://img.shields.io/badge/Consensus-Raft%20%C2%B7%20fault%20injection-a78bfa?style=flat-square" alt="Consensus"/>
+<img src="https://img.shields.io/badge/Sandboxing-WebAssembly%20%C2%B7%20capability%20ABI-fb7185?style=flat-square" alt="Sandboxing"/>
+<img src="https://img.shields.io/badge/Evals-LLM--as--judge%20%C2%B7%20regression-eab308?style=flat-square" alt="Evals"/>
+<img src="https://img.shields.io/badge/Platform-Kubernetes%20%C2%B7%20Helm%20%C2%B7%20Terraform-22c55e?style=flat-square" alt="Platform"/>
 
 </div>
 
+<div align="center">
+
 The full eight-tier stack with every choice and why it earned a place lives at **[sarmalinux.com/technology](https://sarmalinux.com/technology)**. Boring tech, surgical complexity. No AWS, no Azure.
 
----
+</div>
 
-### Stats
+<br/>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,20&height=2&width=100%" alt="separator"/>
+</div>
+
+<!-- ============================================================== -->
+<!-- ==================== STATS ==================================== -->
+<!-- ============================================================== -->
+
+<br/>
+
+<div align="center">
+
+### Stats
 
 <a href="https://github.com/sarmakska">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sarmakska&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&title_color=34d399&icon_color=22d3ee&text_color=c9d1d9&ring_color=22d3ee" alt="GitHub stats"/>
@@ -226,11 +438,33 @@ The full eight-tier stack with every choice and why it earned a place lives at *
 <img src="https://github-profile-trophy.vercel.app/?username=sarmakska&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
 </a>
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarmakska/sarmakska/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarmakska/sarmakska/output/github-snake.svg" />
+  <img alt="Contributions snake animation" src="https://raw.githubusercontent.com/sarmakska/sarmakska/output/github-snake.svg" />
+</picture>
+
 </div>
 
----
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,17,12&height=2&width=100%" alt="separator"/>
+</div>
+
+<!-- ============================================================== -->
+<!-- ==================== WRITING ================================== -->
+<!-- ============================================================== -->
+
+<br/>
+
+<div align="center">
 
 ### Writing
+
+</div>
 
 A handful of good entry points into the **[eighty-seven long-form engineering essays](https://sarmalinux.com/blog)**:
 
@@ -242,43 +476,47 @@ A handful of good entry points into the **[eighty-seven long-form engineering es
 - [Terraform Stack vs Pulumi vs SST](https://sarmalinux.com/blog/terraform-stack-vs-pulumi-vs-sst), an honest comparison
 - [F1 2026 mid-season after the cancellation](https://sarmalinux.com/blog/f1-2026-mid-season-after-cancellation), because not everything is code
 
----
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,20&height=2&width=100%" alt="separator"/>
+</div>
+
+<!-- ============================================================== -->
+<!-- ==================== HIRING =================================== -->
+<!-- ============================================================== -->
+
+<br/>
+
+<div align="center">
 
 ### Hiring
+
+</div>
+
+<div align="center" style="max-width:820px;margin:0 auto;">
 
 I am open to **permanent, full-time PAYE** software engineering roles across the United Kingdom. Remote, hybrid or on-site. Senior or mid-level individual contributor in **AI infrastructure**, **AI engineering**, **platform engineering**, **backend** or **full-stack development**. Not taking contract, consulting or agency subcontract work.
 
 The full pitch with a capability matrix, recent ships and selected open-source work lives at **[sarmalinux.com/hire-me](https://sarmalinux.com/hire-me)**.
 
-<div align="center">
-
-<a href="https://sarmalinux.com/hire-me">
-<img src="https://img.shields.io/badge/Read%20the%20full%20pitch-sarmalinux.com%2Fhire--me-22c55e?style=for-the-badge&logo=briefcase&logoColor=white"/>
-</a>
-<a href="mailto:projects@sarmalinux.com?subject=Role%20enquiry%2C%20Sarma">
-<img src="https://img.shields.io/badge/projects%40sarmalinux.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/sarmalinux">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 </div>
 
----
-
-### Giving back
-
-I run a small charity offer for local businesses in **Hemel Hempstead** and the surrounding villages. A free website for one local restaurant, shop, takeaway, salon or trade at a time. Weekends only. Four weeks start to live. Zero cost. Details at **[sarmalinux.com/charity](https://sarmalinux.com/charity)**.
-
----
-
 <div align="center">
-
-<sub>Built in the open. MIT all the way down.</sub>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sarmakska&style=flat-square&color=22d3ee&label=Profile+views" alt="Profile views"/>
+<a href="https://sarmalinux.com/hire-me"><img src="https://img.shields.io/badge/Read%20the%20full%20pitch-sarmalinux.com%2Fhire--me-22c55e?style=for-the-badge&logo=briefcase&logoColor=white" alt="Read the full pitch"/></a>
+<a href="mailto:projects@sarmalinux.com?subject=Role%20enquiry%2C%20Sarma"><img src="https://img.shields.io/badge/projects%40sarmalinux.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,25:22d3ee,50:0891b2,75:7e22ce,100:0a0a14&height=160&section=footer&animation=fadeIn" width="100%" alt="footer"/>
+
+<sub>Built and maintained by <a href="https://sarmalinux.com">Sarma</a> &middot; Hemel Hempstead, UK &middot; All projects MIT licensed &middot; Updated daily</sub>
+
+</div>
