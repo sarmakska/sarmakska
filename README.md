@@ -268,7 +268,6 @@ When I am not at the desk, I write long-form essays about what I am learning, co
 | Date | What |
 |---|---|
 | **8 Jun 2026** | [echo](https://github.com/sarmakska/echo) Phase 0 + brain-router scaffolding in: `Brain` trait + Claude/Codex/Gemini subprocess wrappers, capability-and-quota router, file-based memory with PreSession digests, MCP skills bus with weather/web-search/files, voice traits + macOS TTS. 64 tests green. Real wake word, mic, whisper.cpp and Piper are next. v1.0 still aimed at 1 July 2026. |
-| **7 Jun 2026** | [sarmalinux.com](https://sarmalinux.com) cache-control overhaul: marketing pages now serve `public, max-age=0, must-revalidate` with `x-vercel-cache: PRERENDER`. Root layout no longer reads `headers()`, three public Server Components switched off the cookie-aware Supabase client. bfcache + edge caching restored site-wide. |
 | **6 Jun 2026** | [slipstream v1.0.0](https://github.com/sarmakska/slipstream/releases/tag/v1.0.0): first major release. React dashboard with nine views, interactive code graph, cross-tab agent bus, cold-start knowledge feed, reproducible `pnpm benchmark` hitting ~95% per-read, dollar cost of tokens saved, memory doctor, 75-skill library, 321 tests. |
 | **6 Jun 2026** | [slipstream v0.27.0](https://github.com/sarmakska/slipstream/releases/tag/v0.27.0): production React dashboard (Vite + TypeScript + d3) with grouped sidebar (Now / History / Knowledge), typed JSON client and interactive knowledge graph. |
 | **6 Jun 2026** | [slipstream v0.24.0](https://github.com/sarmakska/slipstream/releases/tag/v0.24.0): reproducible token-savings benchmark. `pnpm benchmark` measures whole-file vs scoped reads on real files and prints a Markdown table. |
@@ -277,9 +276,7 @@ When I am not at the desk, I write long-form essays about what I am learning, co
 | **4 Jun 2026** | [slipstream v0.6.0](https://github.com/sarmakska/slipstream/releases/tag/v0.6.0): cross-IDE parity (`sp_digest` + `sp_resume` + auto-mode-detect + `slipstream-setup`), nine backend features, redesigned glass-on-dark dashboard. |
 | **3 Jun 2026** | [NVIDIA Computex 2026 recap](https://sarmalinux.com/blog/nvidia-computex-2026-what-ai-engineers-need-to-know): Vera Rubin NVL72 in production, RTX Spark, Cosmos 3, Nemotron 3 Ultra. |
 | **1 Jun 2026** | [AI Engineer World's Fair 2026 recap](https://sarmalinux.com/blog/ai-engineer-worlds-fair-2026-what-mattered): MCP took the year. Six themes that defined where AI engineering is going. |
-| **1 Jun 2026** | Full site elevation pass: `/about`, `/services`, `/process`, `/solutions`, `/industries`, `/case-studies`, `/testimonials` reframed to a PAYE-only voice. |
 | **31 May 2026** | [echo](https://github.com/sarmakska/echo) repo opened, public launch scheduled 1 July 2026. |
-| **28 May 2026** | sarmalinux.com chatbot Martha: streaming sentence-by-sentence TTS via the IONOS voice VPS, 5-engine LLM ladder, mobile bottom-sheet UX. |
 | **3 May 2026** | [Sarmalink-AI v2](https://github.com/sarmakska/Sarmalink-ai): intent auto-routing, MCP-shape tool catalog, TTS/STT cascades, image generation rotation. |
 
 <br/>
