@@ -5,14 +5,14 @@
 <br/>
 
 <a href="https://sarmalinux.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=Senior+software+engineer+in+Hemel+Hempstead%2C+UK;Nineteen+open-source+projects+across+AI+infra%2C+systems%2C+platform;slipstream+v1.0.0+%C2%B7+cross-IDE+MCP+toolkit;Sarmalink-AI+%C2%B7+14-engine+failover+gateway;echo+%C2%B7+an+open+Jarvis+coming+1+July+2026;Rust+LLM+inference%2C+LSM+storage%2C+Raft%2C+WebAssembly+sandbox;Open+to+permanent+UK+roles+%C2%B7+projects%40sarmalinux.com" alt="What I do"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=Senior+software+engineer+in+Hemel+Hempstead%2C+UK;Nineteen+open-source+projects+across+AI+infra%2C+systems%2C+platform;slipstream+v1.0.0+%C2%B7+cross-IDE+MCP+toolkit;Sarmalink-AI+%C2%B7+36-engine+failover+across+7+providers;echo+%C2%B7+an+open+Jarvis+coming+1+July+2026;Rust+LLM+inference%2C+LSM+storage%2C+Raft%2C+WebAssembly+sandbox;Open+to+permanent+UK+roles+%C2%B7+projects%40sarmalinux.com" alt="What I do"/>
 </a>
 
 <br/><br/>
 
 [![Website](https://img.shields.io/badge/sarmalinux.com-0a0a14?style=for-the-badge&logo=safari&logoColor=22d3ee&labelColor=0a0a14)](https://sarmalinux.com)
 [![Hire me](https://img.shields.io/badge/Hire%20me-permanent%20UK%20PAYE-22c55e?style=for-the-badge&logo=briefcase&logoColor=white)](https://sarmalinux.com/hire-me)
-[![Blog](https://img.shields.io/badge/Engineering%20essays-83%2B-8b5cf6?style=for-the-badge&logo=substack&logoColor=white)](https://sarmalinux.com/blog)
+[![Blog](https://img.shields.io/badge/Engineering%20essays-87%2B-8b5cf6?style=for-the-badge&logo=substack&logoColor=white)](https://sarmalinux.com/blog)
 [![Charity](https://img.shields.io/badge/Free%20website%20for%20Hemel-charity-ef4444?style=for-the-badge&logo=heart&logoColor=white)](https://sarmalinux.com/charity)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarmalinux)
 
@@ -35,7 +35,7 @@ Voice. Vision. Memory. A translucent multi-monitor HUD. One Rust core. Cross-pla
 
 **No API keys. No second bill. Local-first. Open source.**
 
-**Where it is now:** Phase 0 and the Phase 1 voice-loop software are in and tested, 90 tests green. A brain router across `claude`, `codex` and `gemini`; a file-based memory store; an MCP skills bus with weather, web search and files; and the voice loop with whisper.cpp speech-to-text and Piper text-to-speech, with barge-in. **Coming next:** HUD polish and multi-monitor, calendar and mail over one-click OAuth, the senses, a proactive engine, autonomous workflows, then signed installers.
+**Where it is now:** Foundation and the orchestration layer are in and tested, 64 tests green. The brain router across `claude`, `codex` and `gemini` is wired and proven against a fake CLI; the file-based memory store with PreSession digests is live; an MCP skills bus runs weather, web search and files; the voice traits are defined and the macOS TTS adapter is real. **What is still landing:** real Porcupine wake word, real cpal mic capture, real whisper.cpp speech-to-text, real Piper TTS as the cross-platform default, the wired end-to-end voice loop, the setup wizard and the sqlite-vss vector memory. **Then:** HUD polish and multi-monitor, calendar and mail over one-click OAuth, the senses, a proactive engine, autonomous workflows, signed installers.
 
 Roughly two years of work, built in the open. New phases roll out daily toward v1.0 on 1 July 2026.
 
@@ -45,7 +45,7 @@ Roughly two years of work, built in the open. New phases roll out daily toward v
 <img src="https://img.shields.io/badge/coming-1%20July%202026-22c55e?style=for-the-badge&logo=clockify&logoColor=white" alt="coming 1 July 2026"/>
 </a>
 <a href="https://github.com/sarmakska/echo">
-<img src="https://img.shields.io/badge/Phase%201-software%20in%20%C2%B7%2090%20tests-22d3ee?style=for-the-badge&logo=rust&logoColor=white" alt="Phase 1 software in, 90 tests"/>
+<img src="https://img.shields.io/badge/Phase%200%20%2B%201-foundation%20in%20%C2%B7%2064%20tests-22d3ee?style=for-the-badge&logo=rust&logoColor=white" alt="Phase 0 + 1 foundation in, 64 tests"/>
 </a>
 <a href="https://github.com/sarmakska/echo">
 <img src="https://img.shields.io/badge/phases-rolling%20out%20daily-0a84ff?style=for-the-badge&logo=git&logoColor=white" alt="phases rolling out daily"/>
@@ -97,7 +97,7 @@ Senior software engineer in Hemel Hempstead, UK. Around five years of production
 
 What pulls me back to the desk every weekend is the same thing that pulled me into the industry, the quiet thrill of building something from scratch. A blank repository, a problem worth solving, a system that did not exist yesterday and ships today.
 
-**Nineteen MIT-licensed repositories. Eighty-three long-form engineering essays. Two flagships in active release, one launching 1 July 2026. Open to permanent PAYE roles in the UK.**
+**Nineteen MIT-licensed repositories. Eighty-seven long-form engineering essays. Two flagships in active release, one launching 1 July 2026. Open to permanent PAYE roles in the UK.**
 
 ---
 
@@ -105,7 +105,7 @@ What pulls me back to the desk every weekend is the same thing that pulled me in
 
 | Date | What |
 |---|---|
-| **7 Jun 2026** | [echo](https://github.com/sarmakska/echo) Phase 0 and Phase 1 software in: brain router across `claude`/`codex`/`gemini`, file-based memory, MCP skills bus, voice loop with whisper.cpp and Piper, agentic tool loop, setup wizard. 90 tests green. New phases rolling out daily toward v1.0 on 1 July 2026. |
+| **8 Jun 2026** | [echo](https://github.com/sarmakska/echo) Phase 0 + brain-router scaffolding in: `Brain` trait + Claude/Codex/Gemini subprocess wrappers, capability-and-quota router, file-based memory with PreSession digests, MCP skills bus with weather/web-search/files, voice traits + macOS TTS. 64 tests green. Real wake word, mic, whisper.cpp and Piper are next. v1.0 still aimed at 1 July 2026. |
 | **6 Jun 2026** | [slipstream v1.0.0](https://github.com/sarmakska/slipstream/releases/tag/v1.0.0): first major release. React dashboard with nine views, interactive code graph, cross-tab agent bus, cold-start knowledge feed, reproducible `pnpm benchmark` hitting ~95% per-read, dollar cost of tokens saved, memory doctor, 75-skill library, 321 tests. |
 | **6 Jun 2026** | [slipstream v0.27.0](https://github.com/sarmakska/slipstream/releases/tag/v0.27.0): production React dashboard (Vite + TypeScript + d3) with grouped sidebar (Now / History / Knowledge), typed JSON client and interactive knowledge graph; previous page kept at `?legacy=1`. |
 | **6 Jun 2026** | [slipstream v0.24.0](https://github.com/sarmakska/slipstream/releases/tag/v0.24.0): reproducible token-savings benchmark. `pnpm benchmark` measures whole-file vs scoped reads on real files and prints a Markdown table. |
@@ -131,11 +131,11 @@ What pulls me back to the desk every weekend is the same thing that pulled me in
 <td width="50%" valign="top">
 
 #### Flagships
-- **[Sarmalink-ai](https://github.com/sarmakska/Sarmalink-ai)** &middot; Multi-provider OpenAI-compatible AI gateway with 14-engine failover, intent-based plugin auto-routing, MCP-shape tool catalog and Manus webhook persistence.
+- **[Sarmalink-ai](https://github.com/sarmakska/Sarmalink-ai)** &middot; Multi-provider OpenAI-compatible AI gateway with 36-engine failover across 7 providers, intent-based plugin auto-routing, MCP-shape tool catalog and Manus webhook persistence.
 - **[slipstream](https://github.com/sarmakska/slipstream)** &middot; v1.0 shipped. Claude Code plugin and cross-IDE MCP toolkit. Fourteen `sp_*` tools, self-building memory, lossless compaction, React dashboard with nine views and an interactive code dependency graph, cross-tab agent bus, cold-start knowledge feed, 75-skill methodology library. 321 tests, MIT.
 
 #### Coming next
-- **[echo](https://github.com/sarmakska/echo)** &middot; An open Jarvis. Brain-agnostic across Claude Code, Codex CLI, Gemini CLI, Ollama and LM Studio. Translucent multi-monitor HUD. Phase 0 and Phase 1 software in, 90 tests; new phases rolling out daily. Public v1.0 on 1 July 2026.
+- **[echo](https://github.com/sarmakska/echo)** &middot; An open Jarvis. Brain-agnostic across Claude Code, Codex CLI, Gemini CLI, Ollama and LM Studio. Translucent multi-monitor HUD planned. Phase 0 + Phase 1 orchestration scaffolding in, 64 tests; real audio I/O and the setup wizard ship next. Public v1.0 on 1 July 2026.
 
 #### AI infrastructure
 - **[agent-orchestrator](https://github.com/sarmakska/agent-orchestrator)** &middot; Durable multi-agent workflows in TypeScript, deterministic replay, journaled Postgres state, BullMQ step queue, Inspector UI.
@@ -232,7 +232,7 @@ The full eight-tier stack with every choice and why it earned a place lives at *
 
 ### Writing
 
-A handful of good entry points into the **[eighty-three long-form engineering essays](https://sarmalinux.com/blog)**:
+A handful of good entry points into the **[eighty-seven long-form engineering essays](https://sarmalinux.com/blog)**:
 
 - [NVIDIA Computex 2026, what AI engineers need to know](https://sarmalinux.com/blog/nvidia-computex-2026-what-ai-engineers-need-to-know), Vera Rubin NVL72, RTX Spark, Cosmos 3, Nemotron 3 Ultra
 - [AI Engineer World's Fair 2026, what mattered](https://sarmalinux.com/blog/ai-engineer-worlds-fair-2026-what-mattered), six themes that defined the year
@@ -281,3 +281,4 @@ I run a small charity offer for local businesses in **Hemel Hempstead** and the 
 <img src="https://komarev.com/ghpvc/?username=sarmakska&style=flat-square&color=22d3ee&label=Profile+views" alt="Profile views"/>
 
 </div>
+
