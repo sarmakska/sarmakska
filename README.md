@@ -440,11 +440,9 @@ The full eight-tier stack with every choice and why it earned a place lives at *
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarmakska/sarmakska/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarmakska/sarmakska/output/github-snake.svg" />
-  <img alt="Contributions snake animation" src="https://raw.githubusercontent.com/sarmakska/sarmakska/output/github-snake.svg" />
-</picture>
+<a href="https://github.com/sarmakska">
+<img src="https://github-contribution-stats.vercel.app/api/?username=sarmakska&theme=algolia&" alt="Contribution stats" height="170"/>
+</a>
 
 </div>
 
