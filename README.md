@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://sarmalinux.com">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,15:0a0a14,35:0d2e4f,55:0f766e,75:0891b2,90:22d3ee,100:34d399&height=280&section=header&text=sarmalinux&fontSize=120&fontColor=ffffff&fontAlignY=42&desc=open-source%20studio%20%C2%B7%20nineteen%20projects%20%C2%B7%20eighty-seven%20essays&descAlignY=70&descSize=20&animation=fadeIn" width="100%" alt="sarmalinux, open-source studio, nineteen projects, eighty-seven essays"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a14,40:0d2e4f,75:0891b2,100:22d3ee&height=180&section=header&text=sarmalinux&fontSize=92&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" alt="sarmalinux"/>
 </a>
 
 <a href="https://sarmalinux.com">
@@ -231,17 +231,19 @@ $  cp | ctx 12%* ok | mem 4 | obs 37 | opt 71% | skill scoped-read    (~12 steps
 
 <div align="center">
 
-### About
+### About me
 
 </div>
 
 <div align="center">
 
-Senior software engineer in the UK. Around five years of production experience. I design and ship **LLM infrastructure**, **systems software** and **full-stack platforms**, end to end. Every project is open source on GitHub, with a whitepaper, an architecture diagram and a quick-start guide on **[sarmalinux.com/products](https://sarmalinux.com/products)**.
+I am Sarma. I build open-source software from a desk in the UK.
 
-What pulls me back to the desk every weekend is the same thing that pulled me into the industry, the quiet thrill of building something from scratch. A blank repository, a problem worth solving, a system that did not exist yesterday and ships today.
+LLM infrastructure, coding agents, inference servers, storage engines, consensus protocols, WebAssembly sandboxes, platform tools. Every project lives on GitHub with a whitepaper, an architecture diagram and a quick-start guide on **[sarmalinux.com/products](https://sarmalinux.com/products)**.
 
-**Nineteen MIT-licensed repositories. Eighty-seven long-form engineering essays. Two flagships in active release, one launching 1 July 2026. Open to permanent PAYE roles in the UK.**
+What pulls me back to the desk every weekend is the same thing that pulled me into the industry: the quiet thrill of building something from scratch. A blank repository, a problem worth solving, a system that did not exist yesterday and ships today.
+
+When I am not at the desk, I write long-form essays about what I am learning, contribute to the open-source projects I rely on, and run a small weekend charity where I build free websites for local businesses in Hemel Hempstead.
 
 </div>
 
