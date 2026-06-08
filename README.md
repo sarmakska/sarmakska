@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://sarmalinux.com">
-<img src="https://raw.githubusercontent.com/sarmakska/sarmakska/main/.github/banner.svg" width="100%" alt="visitor@sarmalinux:~$"/>
+<img src="https://raw.githubusercontent.com/sarmakska/sarmakska/main/.github/hero.svg" width="100%" alt="visitor@sarmalinux:~$"/>
 </a>
 
 <br/>
