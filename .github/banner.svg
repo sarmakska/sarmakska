@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 140" width="920" height="140" role="img" aria-label="visitor at sarmalinux home">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0a0a14"/>
+      <stop offset="35%" stop-color="#0d2e4f"/>
+      <stop offset="65%" stop-color="#0891b2"/>
+      <stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: ui-monospace, "JetBrains Mono", "Geist Mono", Menlo, monospace; font-weight: 700; }
+      .user { fill: #34d399; }
+      .at { fill: #94a3b8; }
+      .host { fill: #22d3ee; }
+      .path { fill: #60a5fa; }
+      .dim { fill: #64748b; }
+      .cur { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 0%,49%{opacity:1}50%,100%{opacity:0} }
+    </style>
+  </defs>
+  <rect width="920" height="140" fill="url(#bg)" rx="20"/>
+  <rect width="920" height="140" fill="#0a0a14" opacity="0.5" rx="20"/>
+  <g transform="translate(60 50)">
+    <circle cx="0" cy="20" r="10" fill="#ef4444"/>
+    <circle cx="28" cy="20" r="10" fill="#fbbf24"/>
+    <circle cx="56" cy="20" r="10" fill="#22c55e"/>
+  </g>
+  <text x="170" y="92" class="mono" font-size="50">
+    <tspan class="user">visitor</tspan><tspan class="at">@</tspan><tspan class="host">sarmalinux</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$ </tspan>
+    <tspan class="host" font-size="38">_</tspan>
+  </text>
+  <rect x="760" y="62" width="22" height="42" fill="#34d399" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
