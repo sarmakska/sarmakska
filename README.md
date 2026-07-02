@@ -11,14 +11,14 @@
 </a>
 
 <a href="https://sarmalinux.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=650&color=22D3EE&background=00000000&center=true&vCenter=true&width=780&height=60&lines=Senior+software+engineer+%C2%B7+UK+PAYE+only;Nineteen+open-source+projects+%C2%B7+all+MIT;slipstream+v1.0+%C2%B7+~95%25+per-read+savings;Sarmalink-AI+%C2%B7+36-engine+failover;echo+%C2%B7+open+Jarvis+%C2%B7+1+July+2026;Eighty-seven+long-form+engineering+essays" alt="What I do"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=650&color=22D3EE&background=00000000&center=true&vCenter=true&width=780&height=60&lines=Senior+software+engineer+%C2%B7+UK+PAYE+only;sarmalink+%C2%B7+BYOK+AI+workspace+%C2%B7+live+at+ai.sarmalinux.com;Nineteen+open-source+projects+%C2%B7+all+MIT;slipstream+v1.0+%C2%B7+~95%25+per-read+savings;Sarmalink-AI+%C2%B7+36-engine+failover;echo+%C2%B7+open+Jarvis+%C2%B7+1+September+2026;Eighty-nine+long-form+engineering+essays" alt="What I do"/>
 </a>
 
 <br/>
 
 <a href="https://sarmalinux.com"><img src="https://img.shields.io/badge/sarmalinux.com-0a0a14?style=for-the-badge&logo=safari&logoColor=22d3ee&labelColor=0a0a14" alt="Website"/></a>
 <a href="https://sarmalinux.com/hire-me"><img src="https://img.shields.io/badge/Hire%20me-permanent%20UK%20PAYE-22c55e?style=for-the-badge&logo=briefcase&logoColor=white" alt="Hire me"/></a>
-<a href="https://sarmalinux.com/blog"><img src="https://img.shields.io/badge/Engineering%20essays-87%2B-8b5cf6?style=for-the-badge&logo=substack&logoColor=white" alt="Essays"/></a>
+<a href="https://sarmalinux.com/blog"><img src="https://img.shields.io/badge/Engineering%20essays-89%2B-8b5cf6?style=for-the-badge&logo=substack&logoColor=white" alt="Essays"/></a>
 <a href="https://sarmalinux.com/charity"><img src="https://img.shields.io/badge/Local%20charity%20offer-free%20websites-ef4444?style=for-the-badge&logo=heart&logoColor=white" alt="Charity"/></a>
 <a href="https://www.linkedin.com/in/sarmalinux"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
@@ -35,6 +35,45 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,20,2,5,6&height=2&width=100%" alt="separator"/>
 
+</div>
+
+<br/>
+
+<!-- ============================================================== -->
+<!-- ==================== SARMALINK (HOSTED) ====================== -->
+<!-- ============================================================== -->
+
+<div align="center">
+
+<a href="https://ai.sarmalinux.com">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a14,30:4c0519,55:9f1239,80:fb7185,100:fecdd3&height=200&section=header&text=sarmalink&fontSize=82&fontColor=ffffff&fontAlignY=44&desc=hosted%20BYOK%20AI%20workspace%20%C2%B7%20live%20at%20ai.sarmalinux.com&descSize=18&descAlignY=78&animation=fadeIn" width="100%" alt="sarmalink, hosted BYOK AI workspace, live at ai.sarmalinux.com"/>
+</a>
+
+<br/>
+
+### **sarmalink** &middot; *the studio&apos;s first hosted product, live now*
+
+</div>
+
+<div align="center">
+
+**Live at [ai.sarmalinux.com](https://ai.sarmalinux.com).** A bring-your-own-keys AI chat workspace. Seventeen providers, Groq, Cerebras, SambaNova, Gemini, OpenRouter, Mistral, DeepSeek and more, with free tiers first and automatic failover. Zero-knowledge encryption done client-side: AES-256-GCM, PBKDF2 at 600,000 iterations, keys and chats encrypted before they leave your device. Chats live in your browser, your GitHub Gists or your Cloudflare R2, never an operator database. Coder mode builds complete single-file apps with a live sandboxed preview. Installable PWA. Free during beta. Built solo in London.
+
+This one is a commercial hosted product, not an open-source repo, and it is separate from **Sarmalink-AI**, the MIT-licensed gateway below.
+
+<br/>
+
+<a href="https://ai.sarmalinux.com"><img src="https://img.shields.io/badge/Open%20sarmalink%20→-ai.sarmalinux.com-fb7185?style=for-the-badge&logo=safari&logoColor=white" alt="Open sarmalink"/></a>
+<a href="https://ai.sarmalinux.com/security"><img src="https://img.shields.io/badge/zero--knowledge-AES--256--GCM%20%C2%B7%20PBKDF2%20600k-22d3ee?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Zero-knowledge encryption"/></a>
+<a href="https://ai.sarmalinux.com/models"><img src="https://img.shields.io/badge/17-providers%20%C2%B7%20free%20tiers%20first-34d399?style=for-the-badge&logoColor=white" alt="17 providers"/></a>
+<a href="https://ai.sarmalinux.com/pricing"><img src="https://img.shields.io/badge/free-during%20beta-a78bfa?style=for-the-badge&logoColor=white" alt="Free during beta"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,20,2,5,6&height=2&width=100%" alt="separator"/>
 </div>
 
 <br/>
@@ -187,7 +226,7 @@ $  cp | ctx 12%* ok | mem 4 | obs 37 | opt 71% | skill scoped-read    (~12 steps
 <div align="center">
 
 <a href="https://github.com/sarmakska/echo">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a14,30:3b0764,55:7e22ce,80:a78bfa,100:e9d5ff&height=200&section=header&text=echo&fontSize=86&fontColor=ffffff&fontAlignY=44&desc=open%20Jarvis%20%C2%B7%20brain-agnostic%20%C2%B7%20one%20Rust%20core%20%C2%B7%201%20July%202026&descSize=18&descAlignY=78&animation=fadeIn" width="100%" alt="echo, open Jarvis, brain-agnostic, one Rust core, 1 July 2026"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a14,30:3b0764,55:7e22ce,80:a78bfa,100:e9d5ff&height=200&section=header&text=echo&fontSize=86&fontColor=ffffff&fontAlignY=44&desc=open%20Jarvis%20%C2%B7%20brain-agnostic%20%C2%B7%20one%20Rust%20core%20%C2%B7%201%20September%202026&descSize=18&descAlignY=78&animation=fadeIn" width="100%" alt="echo, open Jarvis, brain-agnostic, one Rust core, 1 September 2026"/>
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=600&color=A78BFA&background=00000000&center=true&vCenter=true&width=780&height=58&lines=Bring-your-own-subscription+%C2%B7+claude+%2F+codex+%2F+gemini;Voice+in.+Voice+out.+Vision.+Memory.;Translucent+multi-monitor+HUD+%C2%B7+one+Rust+core;Foundation+%2B+orchestration+in+%C2%B7+64+tests+green;Real+audio+I%2FO+%2B+setup+wizard+next" alt="echo live ticker"/>
@@ -210,7 +249,7 @@ $  cp | ctx 12%* ok | mem 4 | obs 37 | opt 71% | skill scoped-read    (~12 steps
 
 <br/>
 
-<a href="https://github.com/sarmakska/echo"><img src="https://img.shields.io/badge/coming-1%20July%202026-a78bfa?style=for-the-badge&logo=clockify&logoColor=white" alt="coming 1 July 2026"/></a>
+<a href="https://github.com/sarmakska/echo"><img src="https://img.shields.io/badge/coming-1%20September%202026-a78bfa?style=for-the-badge&logo=clockify&logoColor=white" alt="coming 1 September 2026"/></a>
 <a href="https://github.com/sarmakska/echo"><img src="https://img.shields.io/badge/Phase%200%20%2B%201-foundation%20in%20%C2%B7%2064%20tests-22d3ee?style=for-the-badge&logo=rust&logoColor=white" alt="Phase 0 + 1 foundation in, 64 tests"/></a>
 <a href="https://github.com/sarmakska/echo"><img src="https://img.shields.io/badge/phases-landing%20daily-0a84ff?style=for-the-badge&logo=git&logoColor=white" alt="phases landing daily"/></a>
 <a href="https://sarmalinux.com/products/echo"><img src="https://img.shields.io/badge/Long%20plan%20→-sarmalinux.com%2Fproducts%2Fecho-a78bfa?style=for-the-badge&logo=safari&logoColor=white" alt="Long plan"/></a>
@@ -267,7 +306,8 @@ When I am not at the desk, I write long-form essays about what I am learning, co
 
 | Date | What |
 |---|---|
-| **8 Jun 2026** | [echo](https://github.com/sarmakska/echo) Phase 0 + brain-router scaffolding in: `Brain` trait + Claude/Codex/Gemini subprocess wrappers, capability-and-quota router, file-based memory with PreSession digests, MCP skills bus with weather/web-search/files, voice traits + macOS TTS. 64 tests green. Real wake word, mic, whisper.cpp and Piper are next. v1.0 still aimed at 1 July 2026. |
+| **2 Jul 2026** | [sarmalink](https://ai.sarmalinux.com) launched: the studio's first hosted product. BYOK AI chat workspace, seventeen providers with free tiers first and automatic failover, client-side zero-knowledge encryption, chats in your browser / your Gists / your R2, Coder mode with live sandboxed preview, installable PWA, free during beta. [Launch post](https://sarmalinux.com/blog/sarmalink-launch-byok-ai-workspace). |
+| **8 Jun 2026** | [echo](https://github.com/sarmakska/echo) Phase 0 + brain-router scaffolding in: `Brain` trait + Claude/Codex/Gemini subprocess wrappers, capability-and-quota router, file-based memory with PreSession digests, MCP skills bus with weather/web-search/files, voice traits + macOS TTS. 64 tests green. Real wake word, mic, whisper.cpp and Piper are next. v1.0 now aimed at 1 September 2026. |
 | **6 Jun 2026** | [slipstream v1.0.0](https://github.com/sarmakska/slipstream/releases/tag/v1.0.0): first major release. React dashboard with nine views, interactive code graph, cross-tab agent bus, cold-start knowledge feed, reproducible `pnpm benchmark` hitting ~95% per-read, dollar cost of tokens saved, memory doctor, 75-skill library, 321 tests. |
 | **6 Jun 2026** | [slipstream v0.27.0](https://github.com/sarmakska/slipstream/releases/tag/v0.27.0): production React dashboard (Vite + TypeScript + d3) with grouped sidebar (Now / History / Knowledge), typed JSON client and interactive knowledge graph. |
 | **6 Jun 2026** | [slipstream v0.24.0](https://github.com/sarmakska/slipstream/releases/tag/v0.24.0): reproducible token-savings benchmark. `pnpm benchmark` measures whole-file vs scoped reads on real files and prints a Markdown table. |
@@ -276,7 +316,7 @@ When I am not at the desk, I write long-form essays about what I am learning, co
 | **4 Jun 2026** | [slipstream v0.6.0](https://github.com/sarmakska/slipstream/releases/tag/v0.6.0): cross-IDE parity (`sp_digest` + `sp_resume` + auto-mode-detect + `slipstream-setup`), nine backend features, redesigned glass-on-dark dashboard. |
 | **3 Jun 2026** | [NVIDIA Computex 2026 recap](https://sarmalinux.com/blog/nvidia-computex-2026-what-ai-engineers-need-to-know): Vera Rubin NVL72 in production, RTX Spark, Cosmos 3, Nemotron 3 Ultra. |
 | **1 Jun 2026** | [AI Engineer World's Fair 2026 recap](https://sarmalinux.com/blog/ai-engineer-worlds-fair-2026-what-mattered): MCP took the year. Six themes that defined where AI engineering is going. |
-| **31 May 2026** | [echo](https://github.com/sarmakska/echo) repo opened, public launch scheduled 1 July 2026. |
+| **31 May 2026** | [echo](https://github.com/sarmakska/echo) repo opened, public launch scheduled 1 September 2026. |
 | **3 May 2026** | [Sarmalink-AI v2](https://github.com/sarmakska/Sarmalink-ai): intent auto-routing, MCP-shape tool catalog, TTS/STT cascades, image generation rotation. |
 
 <br/>
@@ -306,7 +346,7 @@ When I am not at the desk, I write long-form essays about what I am learning, co
 - **[slipstream](https://github.com/sarmakska/slipstream)** &middot; v1.0 shipped. Claude Code plugin and cross-IDE MCP toolkit. Fourteen `sp_*` tools, self-building memory, lossless compaction, React dashboard with nine views and an interactive code dependency graph, cross-tab agent bus, cold-start knowledge feed, 75-skill methodology library. 321 tests, MIT.
 
 #### Coming next
-- **[echo](https://github.com/sarmakska/echo)** &middot; An open Jarvis. Brain-agnostic across Claude Code, Codex CLI, Gemini CLI, Ollama and LM Studio. Translucent multi-monitor HUD planned. Phase 0 + Phase 1 orchestration scaffolding in, 64 tests; real audio I/O and the setup wizard ship next. Public v1.0 on 1 July 2026.
+- **[echo](https://github.com/sarmakska/echo)** &middot; An open Jarvis. Brain-agnostic across Claude Code, Codex CLI, Gemini CLI, Ollama and LM Studio. Translucent multi-monitor HUD planned. Phase 0 + Phase 1 orchestration scaffolding in, 64 tests; real audio I/O and the setup wizard ship next. Public v1.0 on 1 September 2026.
 
 #### AI infrastructure
 - **[agent-orchestrator](https://github.com/sarmakska/agent-orchestrator)** &middot; Durable multi-agent workflows in TypeScript, deterministic replay, journaled Postgres state, BullMQ step queue, Inspector UI.
@@ -413,7 +453,7 @@ The full eight-tier stack with every choice and why it earned a place lives at *
 <img src="https://img.shields.io/badge/MIT%20open--source%20projects-19-22d3ee?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="19 OSS projects"/>
 </a>
 <a href="https://sarmalinux.com/blog">
-<img src="https://img.shields.io/badge/Long--form%20essays-87-8b5cf6?style=for-the-badge&logo=substack&logoColor=white&labelColor=0d1117" alt="87 essays"/>
+<img src="https://img.shields.io/badge/Long--form%20essays-89-8b5cf6?style=for-the-badge&logo=substack&logoColor=white&labelColor=0d1117" alt="89 essays"/>
 </a>
 <img src="https://img.shields.io/github/stars/sarmakska?affiliations=OWNER&style=for-the-badge&color=a78bfa&logo=star&logoColor=white&labelColor=0d1117&label=Total%20stars" alt="Stars"/>
 <img src="https://img.shields.io/github/followers/sarmakska?style=for-the-badge&color=34d399&logo=github&logoColor=white&labelColor=0d1117&label=Followers" alt="Followers"/>
@@ -445,8 +485,9 @@ The full eight-tier stack with every choice and why it earned a place lives at *
 
 </div>
 
-A handful of good entry points into the **[eighty-seven long-form engineering essays](https://sarmalinux.com/blog)**:
+A handful of good entry points into the **[eighty-nine long-form engineering essays](https://sarmalinux.com/blog)**:
 
+- [sarmalink is live, a BYOK AI workspace where nobody else can read your chats](https://sarmalinux.com/blog/sarmalink-launch-byok-ai-workspace), the launch post, why BYOK, the free-tier economics, the zero-knowledge architecture
 - [NVIDIA Computex 2026, what AI engineers need to know](https://sarmalinux.com/blog/nvidia-computex-2026-what-ai-engineers-need-to-know), Vera Rubin NVL72, RTX Spark, Cosmos 3, Nemotron 3 Ultra
 - [AI Engineer World's Fair 2026, what mattered](https://sarmalinux.com/blog/ai-engineer-worlds-fair-2026-what-mattered), six themes that defined the year
 - [SarmaLink-AI failover deep dive](https://sarmalinux.com/blog/sarmalink-ai-failover-deep-dive), how multi-engine fallback actually works in production
