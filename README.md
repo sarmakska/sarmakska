@@ -57,13 +57,14 @@
 
 <div align="center">
 
-**Live at [ai.sarmalinux.com](https://ai.sarmalinux.com).** A bring-your-own-keys AI chat workspace. Seventeen providers, Groq, Cerebras, SambaNova, Gemini, OpenRouter, Mistral, DeepSeek and more, with free tiers first and automatic failover. Zero-knowledge encryption done client-side: AES-256-GCM, PBKDF2 at 600,000 iterations, keys and chats encrypted before they leave your device. Chats live in your browser, your GitHub Gists or your Cloudflare R2, never an operator database. Coder mode builds complete single-file apps with a live sandboxed preview. Installable PWA. Free during beta. Built solo in London.
+**Live at [ai.sarmalinux.com](https://ai.sarmalinux.com).** A bring-your-own-keys AI chat workspace. Seventeen providers, Groq, Cerebras, SambaNova, Gemini, OpenRouter, Mistral, DeepSeek and more, with free tiers first and automatic failover. Zero-knowledge encryption done client-side: AES-256-GCM, PBKDF2 at 600,000 iterations, keys and chats encrypted before they leave your device. Chats live in your browser, your GitHub Gists or your Cloudflare R2, never an operator database. Coder mode builds and runs complete apps from a description in a live sandboxed preview, then saves them, single files or full multi-file projects, straight to a folder on your own machine: [ai.sarmalinux.com/build](https://ai.sarmalinux.com/build). Installable PWA. Free during beta. Built solo in London.
 
 This one is a commercial hosted product, not an open-source repo, and it is separate from **Sarmalink-AI**, the MIT-licensed gateway below.
 
 <br/>
 
 <a href="https://ai.sarmalinux.com"><img src="https://img.shields.io/badge/Open%20sarmalink%20→-ai.sarmalinux.com-fb7185?style=for-the-badge&logo=safari&logoColor=white" alt="Open sarmalink"/></a>
+<a href="https://ai.sarmalinux.com/build"><img src="https://img.shields.io/badge/Coder%20mode-apps%20from%20a%20description%20%C2%B7%20saved%20to%20your%20machine-8b5cf6?style=for-the-badge&logo=codesandbox&logoColor=white" alt="Coder mode, apps from a description, saved to your machine"/></a>
 <a href="https://ai.sarmalinux.com/security"><img src="https://img.shields.io/badge/zero--knowledge-AES--256--GCM%20%C2%B7%20PBKDF2%20600k-22d3ee?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Zero-knowledge encryption"/></a>
 <a href="https://ai.sarmalinux.com/models"><img src="https://img.shields.io/badge/17-providers%20%C2%B7%20free%20tiers%20first-34d399?style=for-the-badge&logoColor=white" alt="17 providers"/></a>
 <a href="https://ai.sarmalinux.com/pricing"><img src="https://img.shields.io/badge/free-during%20beta-a78bfa?style=for-the-badge&logoColor=white" alt="Free during beta"/></a>
